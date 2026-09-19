@@ -1,9 +1,9 @@
-# 🤖 VOXBot — Recursos e Funcionalidades
+# 🤖 𝑲𝒊𝒔𝒉𝒐𝒖 𝑩𝑶𝑻 — WhatsApp modder and fun
 
 
 
 # Descrição
-> VOXBot é um bot completo para WhatsApp, baseado no projeto nazuna Bot.
+> 𝑲𝒊𝒔𝒉𝒐𝒖 𝑩𝑶𝑻 é um bot completo para WhatsApp.
 > Reúne TODAS as funções do README original, sem cortes ou limitações.
 
 # ===============================
@@ -51,13 +51,13 @@
 # ===============================
 # ⚠️ Aviso
 # ===============================
-> VOXBot NÃO é um produto à venda.
-> Projeto baseado no nazuna Bot (open-source).
-> Os créditos ao autor original DEVEM ser mantidos.- **Compatibilidade Multiplataforma Inigualável**: Rode o nazuna Bot em praticamente qualquer ambiente: Windows, Linux, macOS, dispositivos Android (através do Termux) e até mesmo em servidores dedicados como Pterodactyl, garantindo flexibilidade total.
+> 𝑲𝒊𝒔𝒉𝒐𝒖 𝑩𝑶𝑻 NÃO é um produto à venda.
+> 𝑲𝒊𝒔𝒉𝒐𝒖 𝑩𝑶𝑻 é totalmente (open-source).
+> Os créditos ao autor original DEVEM ser mantidos.- **Compatibilidade Multiplataforma Inigualável**: Rode o 𝑲𝒊𝒔𝒉𝒐𝒖 𝑩𝑶𝑻 em praticamente qualquer ambiente: Windows, Linux, macOS, dispositivos Android (através do Termux) e até mesmo em servidores dedicados como Pterodactyl, garantindo flexibilidade total.
 - **Atualizações Constantes e Melhorias Contínuas**: Nossa equipe está sempre trabalhando para trazer novas funcionalidades, otimizações de desempenho e correções de bugs, garantindo que seu bot esteja sempre na vanguarda.
-- **Segurança Reforçada e Estabilidade Comprovada**: Desenvolvido com base no modo multi-dispositivos do WhatsApp, o nazuna Bot oferece uma operação fluida, segura e confiável, minimizando interrupções e protegendo seus dados.
+- **Segurança Reforçada e Estabilidade Comprovada**: Desenvolvido com base no modo multi-dispositivos do WhatsApp, o 𝑲𝒊𝒔𝒉𝒐𝒖 𝑩𝑶𝑻 oferece uma operação fluida, segura e confiável, minimizando interrupções e protegendo seus dados.
 
-> 💡 **Explore o Potencial**: Após a configuração inicial, basta digitar `/menu` no WhatsApp para desvendar um universo de comandos e funcionalidades que o nazuna Bot oferece!
+> 💡 **Explore o Potencial**: Após a configuração inicial, basta digitar `/menu` no WhatsApp para desvendar um universo de comandos e funcionalidades que o 𝑲𝒊𝒔𝒉𝒐𝒖 𝑩𝑶𝑻 oferece!
 </details>
 
 ---
@@ -67,40 +67,27 @@
 <details>
 <summary><strong>📈 Métricas e números do projeto</strong></summary>
 
-Acompanhe o progresso e a vitalidade do nazuna Bot através de métricas em tempo real, que refletem o engajamento da comunidade e o desenvolvimento contínuo do projeto:
+Acompanhe o progresso e a vitalidade do 𝑲𝒊𝒔𝒉𝒐𝒖 𝑩𝑶𝑻 através de métricas em tempo real, que refletem o engajamento da comunidade e o desenvolvimento contínuo do projeto:
 
 | Ícone | Badge | Descrição Detalhada |
 |-------|-------|---------------------|
-| 🕒 | ![Última Atualização](https://img.shields.io/github/last-commit/hiudyy/nazuna?color=blue&style=flat-square) | **Última Atualização**: Indica a data do último commit realizado no repositório, mostrando a atividade recente de desenvolvimento. |
-| ⭐ | ![Estrelas](https://img.shields.io/github/stars/hiudyy/nazuna?color=yellow&label=Favoritos&style=flat-square) | **Favoritos (Estrelas)**: Representa o número de estrelas concedidas ao projeto no GitHub, um indicador direto da popularidade e do apreço da comunidade. |
-| 🍴 | ![Forks](https://img.shields.io/github/forks/hiudyy/nazuna?color=green&style=flat-square) | **Forks**: Contagem de cópias do projeto (forks) criadas por outros desenvolvedores, evidenciando o interesse em colaborar ou adaptar o bot. |
-| 🐞 | ![Issues](https://img.shields.io/github/issues/hiudyy/nazuna?color=red&style=flat-square) | **Issues**: Número de problemas reportados, sugestões de melhoria ou dúvidas levantadas pela comunidade, essenciais para o aprimoramento do bot. |
-| 📝 | ![Commits](https://img.shields.io/github/commit-activity/m/hiudyy/nazuna?color=purple&style=flat-square) | **Commits**: Frequência de atualizações no código-fonte, refletindo a intensidade do trabalho de desenvolvimento e manutenção. |
-| 💾 | ![Tamanho do Repo](https://img.shields.io/github/repo-size/hiudyy/nazuna?color=orange&style=flat-square) | **Tamanho do Repositório**: O espaço total ocupado pelo projeto no GitHub, incluindo todos os arquivos e histórico de versões. |
-| 👥 | ![Contribuidores](https://img.shields.io/github/contributors/hiudyy/nazuna?color=cyan&style=flat-square) | **Contribuidores**: Lista de todas as pessoas que contribuíram ativamente com código ou documentação para o projeto. |
-| 📥 | ![Downloads](https://img.shields.io/github/downloads/hiudyy/nazuna/total?color=pink&style=flat-square) | **Downloads**: O número total de vezes que o projeto foi baixado, indicando sua adoção e uso. |
-| 🌐 | ![Linguagens](https://img.shields.io/github/languages/top/hiudyy/nazuna?color=teal&style=flat-square) | **Linguagens**: As principais linguagens de programação utilizadas no desenvolvimento do nazuna Bot, com destaque para a mais predominante. |
-| 🔄 | ![PRs](https://img.shields.io/github/issues-pr/hiudyy/nazuna?color=brightgreen&style=flat-square) | **Pull Requests**: Propostas de melhorias ou novas funcionalidades enviadas por colaboradores, aguardando revisão e integração. |
-| ⏱️ | ![Tempo de Resposta](https://img.shields.io/github/issues-closed-raw/hiudyy/nazuna?color=blueviolet&style=flat-square) | **Tempo de Resposta (Issues)**: Média de tempo que leva para uma issue ser resolvida e fechada, demonstrando a agilidade da equipe. |
+| 🕒 | ![Última Atualização](https://img.shields.io/github/last-commit/Bipedey/nazuna?color=blue&style=flat-square) | **Última Atualização**: Indica a data do último commit realizado no repositório, mostrando a atividade recente de desenvolvimento. |
+| ⭐ | ![Estrelas](https://img.shields.io/github/stars/Bipedey/nazuna?color=yellow&label=Favoritos&style=flat-square) | **Favoritos (Estrelas)**: Representa o número de estrelas concedidas ao projeto no GitHub, um indicador direto da popularidade e do apreço da comunidade. |
+| 🍴 | ![Forks](https://img.shields.io/github/forks/Bipedey/nazuna?color=green&style=flat-square) | **Forks**: Contagem de cópias do projeto (forks) criadas por outros desenvolvedores, evidenciando o interesse em colaborar ou adaptar o bot. |
+| 🐞 | ![Issues](https://img.shields.io/github/issues/Bipedey/nazuna?color=red&style=flat-square) | **Issues**: Número de problemas reportados, sugestões de melhoria ou dúvidas levantadas pela comunidade, essenciais para o aprimoramento do bot. |
+| 📝 | ![Commits](https://img.shields.io/github/commit-activity/m/Bipedey/nazuna?color=purple&style=flat-square) | **Commits**: Frequência de atualizações no código-fonte, refletindo a intensidade do trabalho de desenvolvimento e manutenção. |
+| 💾 | ![Tamanho do Repo](https://img.shields.io/github/repo-size/Bipedey/nazuna?color=orange&style=flat-square) | **Tamanho do Repositório**: O espaço total ocupado pelo projeto no GitHub, incluindo todos os arquivos e histórico de versões. |
+| 👥 | ![Contribuidores](https://img.shields.io/github/contributors/Bipedey/nazuna?color=cyan&style=flat-square) | **Contribuidores**: Lista de todas as pessoas que contribuíram ativamente com código ou documentação para o projeto. |
+| 📥 | ![Downloads](https://img.shields.io/github/downloads/Bipedey/nazuna/total?color=pink&style=flat-square) | **Downloads**: O número total de vezes que o projeto foi baixado, indicando sua adoção e uso. |
+| 🌐 | ![Linguagens](https://img.shields.io/github/languages/top/Bipedey/nazuna?color=teal&style=flat-square) | **Linguagens**: As principais linguagens de programação utilizadas no desenvolvimento do 𝑲𝒊𝒔𝒉𝒐𝒖 𝑩𝑶𝑻, com destaque para a mais predominante. |
+| 🔄 | ![PRs](https://img.shields.io/github/issues-pr/Bipedey/nazuna?color=brightgreen&style=flat-square) | **Pull Requests**: Propostas de melhorias ou novas funcionalidades enviadas por colaboradores, aguardando revisão e integração. |
+| ⏱️ | ![Tempo de Resposta](https://img.shields.io/github/issues-closed-raw/Bipedey/nazuna?color=blueviolet&style=flat-square) | **Tempo de Resposta (Issues)**: Média de tempo que leva para uma issue ser resolvida e fechada, demonstrando a agilidade da equipe. |
 | 📜 | ![Licença](https://img.shields.io/badge/licença-Copyright-red?style=flat-square) | **Licença**: Informa que o projeto é protegido por copyright, com as condições de uso e distribuição detalhadas na seção de Licença. |
 | ✅ | ![Status](https://img.shields.io/badge/STATUS-ATIVO-success?style=flat-square) | **Status**: Indica que o projeto está ativo e em constante desenvolvimento, com suporte e atualizações regulares. |
 
 📈 **Visitas Totais ao Repositório**:  
 ![Contador de Visitas](https://count.getloli.com/@nazuninha-bot?name=nazuninha-bot&theme=booru-lewd&padding=8&offset=0&align=top&scale=2&pixelated=1&darkmode=1)  
-*Este contador registra o número total de visualizações que o repositório do nazuna Bot recebeu, refletindo o interesse geral no projeto.*
-</details>
-
----
-
-## 📢 Conecte-se à Comunidade Oficial
-
-<details>
-<summary><strong>👥 Junte-se à nossa comunidade</strong></summary>
-
-Mantenha-se sempre atualizado com as últimas notícias, receba dicas exclusivas e acesse suporte direto da comunidade do nazuna Bot. Junte-se a nós!
-
-[![Grupo WhatsApp](https://img.shields.io/badge/Entrar-WhatsApp-25D366?style=flat-square&logo=whatsapp)](https://chat.whatsapp.com/EvgIsHK0NJmGbErpy4G3aB?mode=ac_t)  
-*Clique para entrar no nosso grupo oficial do WhatsApp e faça parte da nossa crescente comunidade!* 
+*Este contador registra o número total de visualizações que o repositório do 𝑲𝒊𝒔𝒉𝒐𝒖 𝑩𝑶𝑻t recebeu, refletindo o interesse geral no projeto.*
 </details>
 
 ---
@@ -114,10 +101,10 @@ Navegue facilmente por todas as seções deste README para encontrar as informa�
 
 1. [🚀 Primeiros Passos: Guia Rápido](#-primeiros-passos-guia-rápido)
 2. [📋 Pré-requisitos Essenciais](#-pré-requisitos-essenciais)
-3. [📥 Instalação do nazuna Bot](#-instalação-do-nazuna-bot)
+3. [📥 Instalação do 𝑲𝒊𝒔𝒉𝒐𝒖 𝑩𝑶𝑻](#-instalação-do-nazuna-bot)
 4. [🚀 Rodando o Bot pela Primeira Vez](#-rodando-o-bot-pela-primeira-vez)
 5. [🔌 Conectando o Bot ao WhatsApp](#-conectando-o-bot-ao-whatsapp)
-6. [🔄 Atualizando o nazuna Bot](#-atualizando-o-nazuna-bot)
+6. [🔄 Atualizando o 𝑲𝒊𝒔𝒉𝒐𝒖 𝑩𝑶𝑻](#-atualizando-o-nazuna-bot)
 7. [💻 Tutoriais de Instalação por Plataforma](#-tutoriais-de-instalação-por-plataforma)
    - [🖥️ Windows: Guia Completo](#-windows-guia-completo)
    - [🐧 Linux: Instalação e Configuração](#-linux-instalação-e-configuração)
@@ -126,7 +113,7 @@ Navegue facilmente por todas as seções deste README para encontrar as informa�
 8. [❓ Resolvendo Problemas Comuns (FAQ)](#-resolvendo-problemas-comuns-faq)
 9. [💖 Apoie o Projeto: Faça a Diferença](#-apoie-o-projeto-faça-a-diferença)
 10. [📜 Licença de Uso e Direitos Autorais](#-licença-de-uso-e-direitos-autorais)
-11. [👤 Sobre o Criador: Hiudy](#-sobre-o-criador-hiudy)
+11. [👤 Sobre o Criador: Bipede](#-sobre-o-criador-bipede)
 12. [❔ FAQ Avançado e Dúvidas Frequentes](#-faq-avançado-e-dúvidas-frequentes)
 </details>
 
@@ -137,12 +124,12 @@ Navegue facilmente por todas as seções deste README para encontrar as informa�
 <details>
 <summary><strong>⚡ Início rápido para quem tem experiência</strong></summary>
 
-Se você é novo no mundo dos bots de WhatsApp e nunca instalou o nazuna Bot antes, é altamente recomendável que você siga o tutorial específico para a sua plataforma (Windows, Linux, Termux ou Pterodactyl), detalhado na seção [Tutoriais de Instalação por Plataforma](#-tutoriais-de-instalação-por-plataforma). Esses guias foram elaborados para cobrir cada etapa, minimizando possíveis erros.
+Se você é novo no mundo dos bots de WhatsApp e nunca instalou o 𝑲𝒊𝒔𝒉𝒐𝒖 𝑩𝑶𝑻 antes, é altamente recomendável que você siga o tutorial específico para a sua plataforma (Windows, Linux, Termux ou Pterodactyl), detalhado na seção [Tutoriais de Instalação por Plataforma](#-tutoriais-de-instalação-por-plataforma). Esses guias foram elaborados para cobrir cada etapa, minimizando possíveis erros.
 
 Para aqueles que já têm alguma familiaridade ou já possuem os pré-requisitos instalados, siga estes passos para uma configuração rápida:
 
 1. **Prepare o Ambiente**: Certifique-se de ter o Node.js (versão 18 ou superior) e o Git instalados em seu sistema. Consulte a seção [Pré-requisitos Essenciais](#-pré-requisitos-essenciais) para mais detalhes.
-2. **Baixe o Bot**: Clone o repositório oficial do nazuna Bot do GitHub para o seu ambiente de trabalho.
+2. **Baixe o Bot**: Clone o repositório oficial do 𝑲𝒊𝒔𝒉𝒐𝒖 𝑩𝑶𝑻 do GitHub para o seu ambiente de trabalho.
 3. **Conecte ao WhatsApp**: Utilize um número de telefone secundário e exclusivo para o bot. Esta é uma medida de segurança crucial para proteger sua conta principal de possíveis bloqueios ou banimentos pelo WhatsApp.
 4. **Explore os Comandos**: Após a conexão bem-sucedida, envie `/menu` para o bot no WhatsApp para descobrir todas as funcionalidades e comandos disponíveis.
 
@@ -156,41 +143,41 @@ Para aqueles que já têm alguma familiaridade ou já possuem os pré-requisitos
 <details>
 <summary><strong>🛠️ O que você precisa antes de começar</strong></summary>
 
-Para garantir que o nazuna Bot funcione perfeitamente em seu sistema, você precisará dos seguintes componentes. Certifique-se de que todos estejam instalados e configurados corretamente antes de prosseguir com a instalação do bot:
+Para garantir que o 𝑲𝒊𝒔𝒉𝒐𝒖 𝑩𝑶𝑻t funcione perfeitamente em seu sistema, você precisará dos seguintes componentes. Certifique-se de que todos estejam instalados e configurados corretamente antes de prosseguir com a instalação do bot:
 
 | **Item Essencial**  | **Descrição Detalhada e Links para Download**                                                                 |
 |---------------------|---------------------------------------------------------------------------------------------------------------|
 | **Node.js**         | **Versão 18 ou superior**. O Node.js é o ambiente de execução JavaScript necessário para rodar o bot. Baixe a versão LTS (Long Term Support) mais recente diretamente do site oficial: [nodejs.org](https://nodejs.org). |
-| **Git**             | Uma ferramenta de controle de versão essencial para clonar o repositório do nazuna Bot do GitHub. Faça o download e instale-o a partir do site oficial: [git-scm.com](https://git-scm.com).        |
+| **Git**             | Uma ferramenta de controle de versão essencial para clonar o repositório do 𝑲𝒊𝒔𝒉𝒐𝒖 𝑩𝑶𝑻 do GitHub. Faça o download e instale-o a partir do site oficial: [git-scm.com](https://git-scm.com).        |
 | **WhatsApp**        | Um **número de telefone dedicado e secundário** para o bot. É crucial **NÃO** utilizar seu número principal, pois o uso de bots pode, em casos raros, levar a banimentos temporários ou permanentes da conta pelo WhatsApp. |
 | **Internet Estável**| Uma conexão à internet contínua e estável é fundamental para a configuração inicial, conexão com o WhatsApp e o funcionamento ininterrupto do bot.                                  |
-| **Dispositivo Compatível**| Você pode rodar o nazuna Bot em uma variedade de plataformas: um computador (Windows, Linux, macOS), um dispositivo Android (com o aplicativo Termux instalado) ou um servidor dedicado (como os que utilizam Pterodactyl).    |
+| **Dispositivo Compatível**| Você pode rodar o 𝑲𝒊𝒔𝒉𝒐𝒖 𝑩𝑶𝑻 em uma variedade de plataformas: um computador (Windows, Linux, macOS), um dispositivo Android (com o aplicativo Termux instalado) ou um servidor dedicado (como os que utilizam Pterodactyl).    |
 | **Recursos Mínimos de Hardware**| Para um funcionamento básico, o bot requer **256MB de RAM** e **256MB de armazenamento** disponível. Para um desempenho otimizado e mais fluidez, recomendamos **512MB de RAM** e **512MB de espaço em disco**. |
 
-> ⚠️ **Alerta de Segurança**: Reafirmamos a importância de utilizar um número de telefone secundário para o nazuna Bot. Esta prática protege sua conta pessoal do WhatsApp de quaisquer riscos associados ao uso de automação.
+> ⚠️ **Alerta de Segurança**: Reafirmamos a importância de utilizar um número de telefone secundário para o 𝑲𝒊𝒔𝒉𝒐𝒖 𝑩𝑶𝑻. Esta prática protege sua conta pessoal do WhatsApp de quaisquer riscos associados ao uso de automação.
 </details>
 
 ---
 
-## 📥 Instalação do nazuna Bot
+## 📥 Instalação do 𝑲𝒊𝒔𝒉𝒐𝒖 𝑩𝑶𝑻 Bot
 
 <details>
 <summary><strong>📦 Passo a passo da instalação</strong></summary>
 
-Siga este guia passo a passo para instalar o nazuna Bot em seu sistema. Certifique-se de ter todos os [Pré-requisitos Essenciais](#-pré-requisitos-essenciais) instalados antes de começar.
+Siga este guia passo a passo para instalar o 𝑲𝒊𝒔𝒉𝒐𝒖 𝑩𝑶𝑻 em seu sistema. Certifique-se de ter todos os [Pré-requisitos Essenciais](#-pré-requisitos-essenciais) instalados antes de começar.
 
 1. **Clonar o Repositório do GitHub**  
-   Abra o terminal de sua preferência (Prompt de Comando no Windows, PowerShell, Terminal no Linux/macOS ou Termux no Android) e execute os seguintes comandos. Estes comandos baixarão todo o código-fonte do nazuna Bot para o seu computador e o levarão para o diretório do projeto:
+   Abra o terminal de sua preferência (Prompt de Comando no Windows, PowerShell, Terminal no Linux/macOS ou Termux no Android) e execute os seguintes comandos. Estes comandos baixarão todo o código-fonte do 𝑲𝒊𝒔𝒉𝒐𝒖 𝑩𝑶𝑻 para o seu computador e o levarão para o diretório do projeto:
    ```bash
-   git clone https://github.com/hiudyy/nazuna.git
+   git clone https://github.com/Bipedey/nazuna.git
    cd nazuna
    ```
    - **Explicação**:  
-     - `git clone https://github.com/hiudyy/nazuna.git`: Este comando baixa uma cópia completa do repositório do nazuna Bot do GitHub para o seu diretório atual. Uma nova pasta chamada `nazuna` será criada.
+     - `git clone https://github.com/Bipedey/nazuna.git`: Este comando baixa uma cópia completa do repositório do 𝑲𝒊𝒔𝒉𝒐𝒖 𝑩𝑶𝑻 do GitHub para o seu diretório atual. Uma nova pasta chamada `nazuna` será criada.
      - `cd nazuna`: Este comando muda o diretório de trabalho atual para a pasta `nazuna`, onde o bot está localizado. Todas as operações subsequentes devem ser executadas dentro desta pasta.
 
 2. **Instalar Dependências do Projeto**  
-   O nazuna Bot utiliza diversas bibliotecas e pacotes Node.js para funcionar. Para instalá-los, execute os comandos abaixo, um por vez. O processo pode levar alguns minutos, dependendo da sua conexão com a internet:
+   O 𝑲𝒊𝒔𝒉𝒐𝒖 𝑩𝑶𝑻 utiliza diversas bibliotecas e pacotes Node.js para funcionar. Para instalá-los, execute os comandos abaixo, um por vez. O processo pode levar alguns minutos, dependendo da sua conexão com a internet:
    ```bash
    npm run config
    npm run config:install
@@ -211,7 +198,7 @@ Siga este guia passo a passo para instalar o nazuna Bot em seu sistema. Certifiq
 <details>
 <summary><strong>▶️ Como executar o bot</strong></summary>
 
-Após a instalação bem-sucedida de todas as dependências, você está pronto para iniciar o nazuna Bot. Execute o seguinte comando no terminal, dentro do diretório do projeto `nazuna`:
+Após a instalação bem-sucedida de todas as dependências, você está pronto para iniciar o 𝑲𝒊𝒔𝒉𝒐𝒖 𝑩𝑶𝑻. Execute o seguinte comando no terminal, dentro do diretório do projeto `nazuna`:
 
 ```bash
 npm start
@@ -229,7 +216,7 @@ Este comando iniciará o processo do bot e o guiará através da conexão com o 
 <details>
 <summary><strong>📱 Métodos de conexão</strong></summary>
 
-O nazuna Bot aproveita o **modo multi-dispositivos** do WhatsApp, o que significa que, após a configuração inicial, seu celular não precisa permanecer conectado à internet para que o bot funcione. Escolha o método de conexão que melhor se adapta às suas necessidades:
+O 𝑲𝒊𝒔𝒉𝒐𝒖 𝑩𝑶𝑻 aproveita o **modo multi-dispositivos** do WhatsApp, o que significa que, após a configuração inicial, seu celular não precisa permanecer conectado à internet para que o bot funcione. Escolha o método de conexão que melhor se adapta às suas necessidades:
 
 ### 1. Conexão via QR Code (Recomendado para a maioria dos usuários)
 
@@ -264,12 +251,12 @@ Este método é útil se você não consegue escanear o QR code diretamente (por
 
 ---
 
-## 🔄 Atualizando o nazuna Bot
+## 🔄 Atualizando o 𝑲𝒊𝒔𝒉𝒐𝒖 𝑩𝑶𝑻
 
 <details>
 <summary><strong>🔃 Como manter seu bot atualizado</strong></summary>
 
-Manter seu nazuna Bot atualizado é essencial para garantir acesso às últimas funcionalidades, melhorias de desempenho e correções de segurança. O processo de atualização é simples e seguro:
+Manter seu 𝑲𝒊𝒔𝒉𝒐𝒖 𝑩𝑶𝑻 atualizado é essencial para garantir acesso às últimas funcionalidades, melhorias de desempenho e correções de segurança. O processo de atualização é simples e seguro:
 
 Para atualizar o bot para a versão mais recente disponível no repositório oficial, navegue até o diretório do projeto `nazuna` no seu terminal e execute o seguinte comando:
 
@@ -289,14 +276,14 @@ Este comando irá baixar as últimas alterações do repositório e atualizar as
 <details>
 <summary><strong>🖥️ Guias detalhados por sistema operacional</strong></summary>
 
-O nazuna Bot é incrivelmente versátil e pode ser executado em diversas plataformas. Escolha o tutorial que corresponde ao seu ambiente para um guia de instalação detalhado e otimizado:
+O 𝑲𝒊𝒔𝒉𝒐𝒖 𝑩𝑶𝑻 é incrivelmente versátil e pode ser executado em diversas plataformas. Escolha o tutorial que corresponde ao seu ambiente para um guia de instalação detalhado e otimizado:
 
 ### 🖥️ Windows: Guia Completo
 
 <details>
 <summary><strong>👨‍💻 Tutorial para Windows</strong></summary>
 
-Este guia detalha a instalação do nazuna Bot em sistemas operacionais Windows, desde a preparação do ambiente até a execução e manutenção do bot.
+Este guia detalha a instalação do 𝑲𝒊𝒔𝒉𝒐𝒖 𝑩𝑶𝑻 em sistemas operacionais Windows, desde a preparação do ambiente até a execução e manutenção do bot.
 
 1. **Pré-requisitos para Windows**  
    Antes de começar, certifique-se de ter os seguintes softwares instalados:
@@ -310,9 +297,9 @@ Este guia detalha a instalação do nazuna Bot em sistemas operacionais Windows,
      Você deverá ver as versões instaladas de cada um.
 
 2. **Clonar o Repositório e Instalar Dependências**  
-   Abra o Prompt de Comando ou PowerShell e execute os comandos abaixo. Eles irão clonar o repositório do nazuna Bot e instalar todas as dependências necessárias:
+   Abra o Prompt de Comando ou PowerShell e execute os comandos abaixo. Eles irão clonar o repositório do 𝑲𝒊𝒔𝒉𝒐𝒖 𝑩𝑶𝑻 e instalar todas as dependências necessárias:
    ```bash
-   git clone https://github.com/hiudyy/nazuna.git
+   git clone https://github.com/Bipedey/nazuna.git
    cd nazuna
    npm run config
    npm run config:install
@@ -320,14 +307,14 @@ Este guia detalha a instalação do nazuna Bot em sistemas operacionais Windows,
    - **Solução de Problemas**: Se você encontrar erros durante a instalação das dependências, tente executar `npm install` diretamente. Certifique-se também de que sua conexão com a internet está estável.
 
 3. **Rodar o Bot no Windows**  
-   Para iniciar o nazuna Bot, execute o seguinte comando no terminal:
+   Para iniciar o 𝑲𝒊𝒔𝒉𝒐𝒖 𝑩𝑶𝑻, execute o seguinte comando no terminal:
    ```bash
    npm start
    ```
    Siga as instruções na tela para conectar o bot ao seu WhatsApp via QR code ou código de pareamento.
 
 4. **Manter o Bot Online (Opcional)**  
-   Para que o nazuna Bot funcione 24 horas por dia, 7 dias por semana, sem a necessidade de manter o terminal aberto, você pode configurá-lo como um serviço do Windows usando o [NSSM (Non-Sucking Service Manager)](https://nssm.cc/).
+   Para que o 𝑲𝒊𝒔𝒉𝒐𝒖 𝑩𝑶𝑻 funcione 24 horas por dia, 7 dias por semana, sem a necessidade de manter o terminal aberto, você pode configurá-lo como um serviço do Windows usando o [NSSM (Non-Sucking Service Manager)](https://nssm.cc/).
    - **Instalação do NSSM**: Baixe o NSSM, extraia o executável e adicione-o ao PATH do sistema ou copie-o para uma pasta acessível.
    - **Configuração do Serviço**: Abra o Prompt de Comando ou PowerShell como administrador e execute:
      ```bash
@@ -344,7 +331,7 @@ Este guia detalha a instalação do nazuna Bot em sistemas operacionais Windows,
 <details>
 <summary><strong>🐧 Tutorial para Linux</strong></summary>
 
-Este guia abrange a instalação do nazuna Bot em distribuições Linux baseadas em Debian/Ubuntu, mas os princípios podem ser aplicados a outras distribuições com pequenas adaptações.
+Este guia abrange a instalação do 𝑲𝒊𝒔𝒉𝒐𝒖 𝑩𝑶𝑻 em distribuições Linux baseadas em Debian/Ubuntu, mas os princípios podem ser aplicados a outras distribuições com pequenas adaptações.
 
 1. **Pré-requisitos para Linux**  
    Abra o terminal e atualize os pacotes do sistema. Em seguida, instale o Node.js e o Git:
@@ -359,28 +346,28 @@ Este guia abrange a instalação do nazuna Bot em distribuições Linux baseadas
      ```
 
 2. **Clonar o Repositório e Instalar Dependências**  
-   No terminal, execute os seguintes comandos para clonar o repositório do nazuna Bot e instalar suas dependências:
+   No terminal, execute os seguintes comandos para clonar o repositório do 𝑲𝒊𝒔𝒉𝒐𝒖 𝑩𝑶𝑻 e instalar suas dependências:
    ```bash
-   git clone https://github.com/hiudyy/nazuna.git
+   git clone https://github.com/Bipedey/nazuna.git
    cd nazuna
    npm run config
    npm run config:install
    ```
 
 3. **Rodar o Bot no Linux**  
-   Para iniciar o nazuna Bot, execute:
+   Para iniciar o 𝑲𝒊𝒔𝒉𝒐𝒖 𝑩𝑶𝑻, execute:
    ```bash
    npm start
    ```
    Siga as instruções na tela para conectar o bot ao seu WhatsApp.
 
 4. **Rodar em Segundo Plano com PM2 (Recomendado)**  
-   Para garantir que o nazuna Bot continue funcionando mesmo após você fechar o terminal, recomendamos o uso do `pm2`, um gerenciador de processos para Node.js.
+   Para garantir que o 𝑲𝒊𝒔𝒉𝒐𝒖 𝑩𝑶𝑻 continue funcionando mesmo após você fechar o terminal, recomendamos o uso do `pm2`, um gerenciador de processos para Node.js.
    - **Instalação do PM2**: Instale o `pm2` globalmente com o seguinte comando:
      ```bash
      npm install -g pm2
      ```
-   - **Iniciando o Bot com PM2**: Inicie o nazuna Bot como um processo gerenciado pelo `pm2`:
+   - **Iniciando o Bot com PM2**: Inicie o 𝑲𝒊𝒔𝒉𝒐𝒖 𝑩𝑶𝑻 como um processo gerenciado pelo `pm2`:
      ```bash
      pm2 start npm --name "nazuna" -- start
      ```
@@ -398,7 +385,7 @@ Este guia abrange a instalação do nazuna Bot em distribuições Linux baseadas
 <details>
 <summary><strong>📱 Tutorial para Android via Termux</strong></summary>
 
-Este tutorial abrangente detalha a instalação do nazuna Bot no Termux, desde o download do aplicativo até a execução do bot, com foco em evitar e solucionar erros comuns.
+Este tutorial abrangente detalha a instalação do 𝑲𝒊𝒔𝒉𝒐𝒖 𝑩𝑶𝑻 no Termux, desde o download do aplicativo até a execução do bot, com foco em evitar e solucionar erros comuns.
 
 1. **Instalar o Termux (Fonte Confiável)**  
    - **Crucial**: Baixe e instale o Termux **exclusivamente** através do [F-Droid](https://f-droid.org/packages/com.termux/). A versão disponível na Google Play Store está desatualizada e pode causar problemas de compatibilidade e instalação.
@@ -428,19 +415,19 @@ Este tutorial abrangente detalha a instalação do nazuna Bot no Termux, desde o
      Você deverá ver as versões instaladas de cada um, confirmando que o ambiente está pronto.
 
 4. **Clonar o Repositório do Bot para o Armazenamento Compartilhado**  
-   Navegue até a pasta de armazenamento interno (onde o Termux tem permissão de escrita) e clone o repositório do nazuna Bot. Isso garante que os arquivos do bot sejam acessíveis e não sejam perdidos.
+   Navegue até a pasta de armazenamento interno (onde o Termux tem permissão de escrita) e clone o repositório do 𝑲𝒊𝒔𝒉𝒐𝒖 𝑩𝑶𝑻. Isso garante que os arquivos do bot sejam acessíveis e não sejam perdidos.
    ```bash
    cd ~/storage/shared
-   git clone https://github.com/hiudyy/nazuna.git
+   git clone https://github.com/Bipedey/nazuna.git
    cd nazuna
    ```
    - **Explicação**:  
      - `cd ~/storage/shared`: Muda o diretório atual para a pasta `shared` dentro do armazenamento do Termux, que geralmente mapeia para o armazenamento interno do seu dispositivo Android. É o local ideal para clonar projetos, evitando problemas de permissão.
-     - `git clone https://github.com/hiudyy/nazuna.git`: Baixa todo o código-fonte do nazuna Bot para uma nova pasta chamada `nazuna`.
+     - `git clone https://github.com/Bipedey/nazuna.git`: Baixa todo o código-fonte do 𝑲𝒊𝒔𝒉𝒐𝒖 𝑩𝑶𝑻 para uma nova pasta chamada `nazuna`.
      - `cd nazuna`: Entra na pasta recém-criada do bot, onde todos os comandos subsequentes devem ser executados.
 
 5. **Instalar as Dependências do Bot**  
-   O nazuna Bot depende de várias bibliotecas Node.js para funcionar. O comando `npm run config:install` irá instalá-las de forma otimizada.
+   O 𝑲𝒊𝒔𝒉𝒐𝒖 𝑩𝑶𝑻 depende de várias bibliotecas Node.js para funcionar. O comando `npm run config:install` irá instalá-las de forma otimizada.
    ```bash
    npm run config
    npm run config:install
@@ -451,7 +438,7 @@ Este tutorial abrangente detalha a instalação do nazuna Bot no Termux, desde o
    - **Solução de Problemas**: Se você encontrar erros durante esta etapa, como `npm: command not found` ou problemas de permissão, certifique-se de que o Node.js foi instalado corretamente (passo 3) e que você concedeu as permissões de armazenamento (passo 2). Tente também `npm install` diretamente.
 
 6. **Rodar o Bot no Termux**  
-   Com todas as dependências instaladas, você está pronto para iniciar o nazuna Bot.
+   Com todas as dependências instaladas, você está pronto para iniciar o 𝑲𝒊𝒔𝒉𝒐𝒖 𝑩𝑶𝑻.
    ```bash
    npm start
    ```
@@ -474,14 +461,14 @@ Este tutorial abrangente detalha a instalação do nazuna Bot no Termux, desde o
 <details>
 <summary><strong>☁️ Tutorial para servidores Pterodactyl</strong></summary>
 
-Este guia detalha como configurar o **nazuna Bot** em um servidor Pterodactyl, oferecendo duas opções: o Egg oficial do nazuna, que automatiza a maior parte do processo, e um Egg Node.js comum, para maior controle manual.
+Este guia detalha como configurar o **𝑲𝒊𝒔𝒉𝒐𝒖 𝑩𝑶𝑻** em um servidor Pterodactyl, oferecendo duas opções: o Egg oficial do nazuna, que automatiza a maior parte do processo, e um Egg Node.js comum, para maior controle manual.
 
 #### Opção 1: Utilizando o Egg Oficial do nazuna (Recomendado)
 
-Esta é a maneira mais fácil e rápida de colocar o nazuna Bot para rodar em um servidor Pterodactyl.
+Esta é a maneira mais fácil e rápida de colocar o 𝑲𝒊𝒔𝒉𝒐𝒖 𝑩𝑶𝑻 para rodar em um servidor Pterodactyl.
 
 1. **Baixar e Importar o Egg**  
-   - **Download**: Obtenha o arquivo JSON do Egg oficial do nazuna em: [https://gitlab.com/hiudyy/nazuna-funcs/nazuna-egg.json](https://gitlab.com/hiudyy/nazuna-funcs/-/raw/main/nazuna-egg.json).
+   - **Download**: Obtenha o arquivo JSON do Egg oficial do nazuna em: [https://gitlab.com/Bipedey/nazuna-funcs/nazuna-egg.json](https://gitlab.com/Bipedey/nazuna-funcs/-/raw/main/nazuna-egg.json).
    - **Importação**: No painel de administração do Pterodactyl, navegue até **Nests** > **Eggs** e clique em **Import Egg**. Selecione o arquivo JSON baixado para importar o Egg do nazuna.
 
 2. **Criar o Servidor com o Egg do nazuna**  
@@ -496,7 +483,7 @@ Esta é a maneira mais fácil e rápida de colocar o nazuna Bot para rodar em um
 
 3. **Iniciar o Servidor e Conectar ao WhatsApp**  
    - Clique em **Start** no painel do Pterodactyl.
-   - O Egg irá clonar automaticamente o repositório (`https://github.com/hiudyy/nazuna.git`) e instalar todas as dependências.
+   - O Egg irá clonar automaticamente o repositório (`https://github.com/Bipedey/nazuna.git`) e instalar todas as dependências.
    - Utilize o console do Pterodactyl ou o VNC (se disponível) para visualizar o QR code ou obter o código de pareamento e conectar o bot ao WhatsApp.
 
 4. **Manutenção e Atualizações**  
@@ -516,9 +503,9 @@ Esta opção oferece mais controle sobre a configuração, mas requer mais passo
    - **Recursos**: Aloque no mínimo 256MB de RAM e 256MB de disco. Recomendamos 512MB de RAM e 512MB de disco para um melhor desempenho.
 
 2. **Clonar o Repositório Manualmente**  
-   - Acesse o console do Pterodactyl e execute os seguintes comandos para clonar o repositório do nazuna Bot:
+   - Acesse o console do Pterodactyl e execute os seguintes comandos para clonar o repositório do 𝑲𝒊𝒔𝒉𝒐𝒖 𝑩𝑶𝑻:
      ```bash
-     git clone https://github.com/hiudyy/nazuna.git
+     git clone https://github.com/Bipedey/nazuna.git
      cd nazuna
      ```
 
@@ -550,7 +537,7 @@ Esta opção oferece mais controle sobre a configuração, mas requer mais passo
 <details>
 <summary><strong>🔧 Soluções para problemas frequentes</strong></summary>
 
-Encontrou algum problema durante a instalação ou uso do nazuna Bot? Aqui estão as soluções para os problemas mais frequentes. Se sua dúvida não for respondida aqui, não hesite em nos contatar no [Grupo do WhatsApp](https://chat.whatsapp.com/EvgIsHK0NJmGbErpy4G3aB?mode=ac_t).
+Encontrou algum problema durante a instalação ou uso do 𝑲𝒊𝒔𝒉𝒐𝒖 𝑩𝑶𝑻? Aqui estão as soluções para os problemas mais frequentes. Se sua dúvida não for respondida aqui, não hesite em nos contatar no [Grupo do WhatsApp](https://chat.whatsapp.com/EvgIsHK0NJmGbErpy4G3aB?mode=ac_t).
 
 | **Problema Comum**               | **Solução Detalhada e Passo a Passo**                                                                 |
 |----------------------------------|-------------------------------------------------------------------------------------------------------|
@@ -570,15 +557,15 @@ Encontrou algum problema durante a instalação ou uso do nazuna Bot? Aqui estã
 <details>
 <summary><strong>💝 Como contribuir com o projeto</strong></summary>
 
-O desenvolvimento e a manutenção do **nazuna Bot** são um trabalho de amor, mas também exigem tempo, esforço e recursos. Seu apoio é fundamental para garantir a continuidade e a evolução do projeto, permitindo a adição de novas funcionalidades, melhorias de desempenho e suporte contínuo à comunidade.
+O desenvolvimento e a manutenção do **𝑲𝒊𝒔𝒉𝒐𝒖 𝑩𝑶𝑻** são um trabalho de amor, mas também exigem tempo, esforço e recursos. Seu apoio é fundamental para garantir a continuidade e a evolução do projeto, permitindo a adição de novas funcionalidades, melhorias de desempenho e suporte contínuo à comunidade.
 
-Se você aprecia o nazuna Bot e deseja contribuir para seu futuro, considere fazer uma doação. Cada contribuição, por menor que seja, faz uma grande diferença e é imensamente apreciada.
+Se você aprecia o 𝑲𝒊𝒔𝒉𝒐𝒖 𝑩𝑶𝑻 e deseja contribuir para seu futuro, considere fazer uma doação. Cada contribuição, por menor que seja, faz uma grande diferença e é imensamente apreciada.
 
 - **🇧🇷 Doações no Brasil (via Pix)**  
   **Chave Pix (CNPJ):** `60.374.533/0001-65`  
   *Qualquer valor é bem-vindo e nos ajuda a manter o projeto vivo e próspero!* 
 
-> ❤️ **Nossa Gratidão!** Agradecemos imensamente a todos que apoiam o nazuna Bot. Sua generosidade é o que nos motiva a continuar inovando e aprimorando esta ferramenta para toda a comunidade!
+> ❤️ **Nossa Gratidão!** Agradecemos imensamente a todos que apoiam o 𝑲𝒊𝒔𝒉𝒐𝒖 𝑩𝑶𝑻. Sua generosidade é o que nos motiva a continuar inovando e aprimorando esta ferramenta para toda a comunidade!
 </details>
 
 ---
@@ -588,12 +575,12 @@ Se você aprecia o nazuna Bot e deseja contribuir para seu futuro, considere faz
 <details>
 <summary><strong>🏢 Parceiros de hospedagem recomendados</strong></summary>
 
-Para aqueles que desejam rodar o nazuna Bot 24/7 em um ambiente estável e com bom custo-benefício, recomendamos a **Latam Data Center**.
+Para aqueles que desejam rodar o 𝑲𝒊𝒔𝒉𝒐𝒖 𝑩𝑶𝑻 24/7 em um ambiente estável e com bom custo-benefício, recomendamos a **Latam Data Center**.
 
 [![Latam Data Center](https://latamdatacenter.com.br/assets/img/logo.png)](https://latamdatacenter.com.br)
 
 - **Site**: [latamdatacenter.com.br](https://latamdatacenter.com.br)
-- **Por que recomendamos?**: Oferecem planos de hospedagem acessíveis, com boa estabilidade e suporte em português, ideais para projetos como o nazuna Bot.
+- **Por que recomendamos?**: Oferecem planos de hospedagem acessíveis, com boa estabilidade e suporte em português, ideais para projetos como o 𝑲𝒊𝒔𝒉𝒐𝒖 𝑩𝑶𝑻.
 </details>
 
 ---
@@ -603,38 +590,38 @@ Para aqueles que desejam rodar o nazuna Bot 24/7 em um ambiente estável e com b
 <details>
 <summary><strong>⚖️ Termos de uso e direitos</strong></summary>
 
-© 2025 **Hiudy**. Todos os direitos reservados.
+© 2025 **Bipede**. Todos os direitos reservados.
 
-O **nazuna Bot** é um projeto de código aberto, mas é **protegido por copyright**. Isso significa que, embora você tenha total liberdade para editar e distribuir o bot para uso pessoal ou em sua comunidade, a **venda** do nazuna Bot ou de suas versões modificadas é estritamente proibida, pois o projeto é oferecido gratuitamente. Além disso, a remoção total dos créditos do autor é vedada. Violações destas condições podem resultar em ações legais.
+O **𝑲𝒊𝒔𝒉𝒐𝒖 𝑩𝑶𝑻** é um projeto de código aberto, mas é **protegido por copyright**. Isso significa que, embora você tenha total liberdade para editar e distribuir o bot para uso pessoal ou em sua comunidade, a **venda** do 𝑲𝒊𝒔𝒉𝒐𝒖 𝑩𝑶𝑻 ou de suas versões modificadas é estritamente proibida, pois o projeto é oferecido gratuitamente. Além disso, a remoção total dos créditos do autor é vedada. Violações destas condições podem resultar em ações legais.
 </details>
 
 ---
 
-## 👤 Sobre o Criador: Hiudy
+## 👤 Sobre o Criador: Bipede
 
 <details>
 <summary><strong>👨‍💻 Conheça o desenvolvedor</strong></summary>
 
-Feito com ❤️ e muitas xícaras de café por [**Hiudy**](https://github.com/hiudyy), um desenvolvedor apaixonado por criar ferramentas que tornam a tecnologia mais divertida, acessível e poderosa. Ele está constantemente inovando e dedicando seu tempo ao nazuna Bot para aprimorar a experiência de toda a comunidade.
+Feito com ❤️ e muitas xícaras de café por [**Bipede**](https://github.com/Bipedey), um desenvolvedor apaixonado por criar ferramentas que tornam a tecnologia mais divertida, acessível e poderosa. Ele está constantemente inovando e dedicando seu tempo ao 𝑲𝒊𝒔𝒉𝒐𝒖 𝑩𝑶𝑻 para aprimorar a experiência de toda a comunidade.
 
-**Estatísticas do Hiudy no GitHub**:
+**Estatísticas do Bipede no GitHub**:
 
 | Ícone | Badge | Descrição |
 |-------|-------|-----------|
-| 👥 | ![Seguidores](https://img.shields.io/github/followers/hiudyy?color=blue&style=flat-square) | **Seguidores**: O número de pessoas que acompanham o trabalho do Hiudy no GitHub. |
-| 📝 | ![Contribuições](https://img.shields.io/github/commit-activity/y/hiudyy/nazuna) | **Contribuições**: A atividade anual de commits do Hiudy em todos os seus projetos. |
-| 💬 | ![Discord](https://img.shields.io/badge/Discord-hiudyyy-7289DA?style=flat-square&logo=discord) | **Discord**: Conecte-se diretamente com o Hiudy no Discord para trocar ideias e obter suporte. |
-| 📷 | ![Instagram](https://img.shields.io/badge/Instagram-hiudyyy_-E4405F?style=flat-square&logo=instagram) | **Instagram**: Siga o Hiudy no Instagram para ficar por dentro das últimas novidades e bastidores dos projetos. |
+| 👥 | ![Seguidores](https://img.shields.io/github/followers/Bipedey?color=blue&style=flat-square) | **Seguidores**: O número de pessoas que acompanham o trabalho do Bipede no GitHub. |
+| 📝 | ![Contribuições](https://img.shields.io/github/commit-activity/y/Bipedey/nazuna) | **Contribuições**: A atividade anual de commits do Bipede em todos os seus projetos. |
+| 💬 | ![Discord](https://img.shields.io/badge/Discord-Bipedeyy-7289DA?style=flat-square&logo=discord) | **Discord**: Conecte-se diretamente com o Bipede no Discord para trocar ideias e obter suporte. |
+| 📷 | ![Instagram](https://img.shields.io/badge/Instagram-Bipedeyy_-E4405F?style=flat-square&logo=instagram) | **Instagram**: Siga o Bipede no Instagram para ficar por dentro das últimas novidades e bastidores dos projetos. |
 
 **Bio**:  
-Hiudy é um entusiasta de tecnologia que se dedica a criar soluções práticas, inovadoras e com um toque de diversão. Além do nazuna Bot, ele contribui ativamente para diversos projetos open-source e valoriza a interação e o feedback da comunidade. Conecte-se com ele nas redes sociais para acompanhar seus próximos projetos e aventuras no mundo da programação!
+Bipede é um entusiasta de tecnologia que se dedica a criar soluções práticas, inovadoras e com um toque de diversão. Além do 𝑲𝒊𝒔𝒉𝒐𝒖 𝑩𝑶𝑻, ele contribui ativamente para diversos projetos open-source e valoriza a interação e o feedback da comunidade. Conecte-se com ele nas redes sociais para acompanhar seus próximos projetos e aventuras no mundo da programação!
 
-- 📍 **GitHub**: [hiudyy](https://github.com/hiudyy)
-- 💬 **Discord**: [hiudyyy](https://discord.com/users/hiudyyy)
-- 📷 **Instagram**: [hiudyyy_](https://instagram.com/hiudyyy_)
-- 📱 **WhatsApp**: [wa.me/hiudy](https://wa.me/hiudy)
+- 📍 **GitHub**: [Bipedey](https://github.com/Bipedey)
+- 💬 **Discord**: [Bipedeyy](https://discord.com/users/Bipedeyy)
+- 📷 **Instagram**: [Bipedeyy_](https://instagram.com/Bipedeyy_)
+- 📱 **WhatsApp**: [wa.me/Bipede](https://wa.me/Bipede)
 
-> 🌟 **Gostou do Projeto?** Demonstre seu apoio dando uma estrela no GitHub e compartilhando o nazuna Bot com seus amigos e comunidades!
+> 🌟 **Gostou do Projeto?** Demonstre seu apoio dando uma estrela no GitHub e compartilhando o 𝑲𝒊𝒔𝒉𝒐𝒖 𝑩𝑶𝑻 com seus amigos e comunidades!
 </details>
 
 ---
@@ -648,7 +635,7 @@ Hiudy é um entusiasta de tecnologia que se dedica a criar soluções práticas,
 |------------------------------------------|-----------------------------------------------------------------------------------------|
 | **Posso usar meu número de telefone principal com o bot?** | **Não é recomendado**. O uso de automação no WhatsApp pode violar os termos de serviço da plataforma, e há um risco real de banimento da sua conta. Para sua segurança, utilize sempre um número de telefone secundário e dedicado exclusivamente ao bot. |
 | **O bot funciona se meu celular estiver offline?** | **Sim!** Graças ao modo multi-dispositivos do WhatsApp, após a configuração inicial, o bot funciona de forma independente e não requer que seu celular esteja conectado à internet. |
-| **Como posso personalizar os comandos e as respostas do bot?** | A personalização é um dos pontos fortes do nazuna Bot! Você pode editar o arquivo `config.json` após a instalação para alterar o prefixo, as mensagens de boas-vindas e outras configurações. Para personalizações mais avançadas, você pode editar diretamente os arquivos de comando na pasta do projeto. |
+| **Como posso personalizar os comandos e as respostas do bot?** | A personalização é um dos pontos fortes do 𝑲𝒊𝒔𝒉𝒐𝒖 𝑩𝑶𝑻! Você pode editar o arquivo `config.json` após a instalação para alterar o prefixo, as mensagens de boas-vindas e outras configurações. Para personalizações mais avançadas, você pode editar diretamente os arquivos de comando na pasta do projeto. |
 
 ### 📌 Comandos personalizados (Dono)
 
@@ -684,9 +671,9 @@ Use `listcmd` para ver os comandos criados, seus flags e o uso (quando definido)
 Nota: Os `name` dos parâmetros são normalizados para minúsculas e underscores; ex: `First Name` vira `{first_name}`.
 
 | **O que fazer se meu servidor Pterodactyl travar ou o bot parar de responder?** | Primeiro, verifique os logs do bot no console do Pterodactyl para identificar possíveis erros. Em seguida, tente reiniciar o servidor. Se o problema persistir, verifique se há recursos suficientes (RAM/CPU) alocados para o bot e considere atualizar o bot para a versão mais recente. |
-| **O bot é compatível com outros sistemas além do WhatsApp?** | Atualmente, o nazuna Bot é desenvolvido exclusivamente para WhatsApp. No entanto, nossa arquitetura modular permite que futuras integrações com outras plataformas sejam consideradas. Fique atento às atualizações para possíveis novos recursos! |
-| **Como posso contribuir para o desenvolvimento do nazuna Bot?** | Adoramos contribuições da comunidade! Você pode contribuir de várias formas: reportando bugs, sugerindo novas funcionalidades, traduzindo o bot para outros idiomas, melhorando a documentação, ou mesmo enviando pull requests com melhorias de código. Visite nosso repositório no GitHub para mais detalhes. |
-| **O bot funciona em grupos grandes?** | Sim! O nazuna Bot foi projetado para funcionar eficientemente em grupos de todos os tamanhos. No entanto, para grupos muito grandes (mais de 1000 membros), recomendamos usar um servidor dedicado para garantir o melhor desempenho. |
+| **O bot é compatível com outros sistemas além do WhatsApp?** | Atualmente, o 𝑲𝒊𝒔𝒉𝒐𝒖 𝑩𝑶𝑻 é desenvolvido exclusivamente para WhatsApp. No entanto, nossa arquitetura modular permite que futuras integrações com outras plataformas sejam consideradas. Fique atento às atualizações para possíveis novos recursos! |
+| **Como posso contribuir para o desenvolvimento do 𝑲𝒊𝒔𝒉𝒐𝒖 𝑩𝑶𝑻?** | Adoramos contribuições da comunidade! Você pode contribuir de várias formas: reportando bugs, sugerindo novas funcionalidades, traduzindo o bot para outros idiomas, melhorando a documentação, ou mesmo enviando pull requests com melhorias de código. Visite nosso repositório no GitHub para mais detalhes. |
+| **O bot funciona em grupos grandes?** | Sim! O 𝑲𝒊𝒔𝒉𝒐𝒖 𝑩𝑶𝑻 foi projetado para funcionar eficientemente em grupos de todos os tamanhos. No entanto, para grupos muito grandes (mais de 1000 membros), recomendamos usar um servidor dedicado para garantir o melhor desempenho. |
 
 > 💡 **Tem Mais Dúvidas?** Nossa comunidade e o criador estão sempre dispostos a ajudar! Pergunte no [Grupo do WhatsApp](https://chat.whatsapp.com/EvgIsHK0NJmGbErpy4G3aB?mode=ac_t) e teremos prazer em auxiliá-lo! 
 </details>
@@ -698,16 +685,16 @@ Nota: Os `name` dos parâmetros são normalizados para minúsculas e underscores
 <details>
 <summary><strong>⚙️ Para desenvolvedores que querem customizar</strong></summary>
 
-Para desenvolvedores que desejam fazer modificações avançadas no nazuna Bot, seguem algumas informações importantes:
+Para desenvolvedores que desejam fazer modificações avançadas no 𝑲𝒊𝒔𝒉𝒐𝒖 𝑩𝑶𝑻, seguem algumas informações importantes:
 
 ### 1. **Configuração do Ambiente de Desenvolvimento**
    ```bash
    # Clone o repositório
-   git clone https://github.com/hiudyy/nazuna.git
+   git clone https://github.com/Bipedey/nazuna.git
    cd nazuna
    
    # Adicione o repositório original como remote
-   git remote add upstream https://github.com/hiudyy/nazuna.git
+   git remote add upstream https://github.com/Bipedey/nazuna.git
    ```
 
 2. **Configure o Ambiente de Desenvolvimento**

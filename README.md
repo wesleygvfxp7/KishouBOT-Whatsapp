@@ -71,17 +71,17 @@ Acompanhe o progresso e a vitalidade do 𝑲𝒊𝒔𝒉𝒐𝒖 𝑩𝑶𝑻 at
 
 | Ícone | Badge | Descrição Detalhada |
 |-------|-------|---------------------|
-| 🕒 | ![Última Atualização](https://img.shields.io/github/last-commit/Bipedey/nazuna?color=blue&style=flat-square) | **Última Atualização**: Indica a data do último commit realizado no repositório, mostrando a atividade recente de desenvolvimento. |
-| ⭐ | ![Estrelas](https://img.shields.io/github/stars/Bipedey/nazuna?color=yellow&label=Favoritos&style=flat-square) | **Favoritos (Estrelas)**: Representa o número de estrelas concedidas ao projeto no GitHub, um indicador direto da popularidade e do apreço da comunidade. |
-| 🍴 | ![Forks](https://img.shields.io/github/forks/Bipedey/nazuna?color=green&style=flat-square) | **Forks**: Contagem de cópias do projeto (forks) criadas por outros desenvolvedores, evidenciando o interesse em colaborar ou adaptar o bot. |
-| 🐞 | ![Issues](https://img.shields.io/github/issues/Bipedey/nazuna?color=red&style=flat-square) | **Issues**: Número de problemas reportados, sugestões de melhoria ou dúvidas levantadas pela comunidade, essenciais para o aprimoramento do bot. |
-| 📝 | ![Commits](https://img.shields.io/github/commit-activity/m/Bipedey/nazuna?color=purple&style=flat-square) | **Commits**: Frequência de atualizações no código-fonte, refletindo a intensidade do trabalho de desenvolvimento e manutenção. |
-| 💾 | ![Tamanho do Repo](https://img.shields.io/github/repo-size/Bipedey/nazuna?color=orange&style=flat-square) | **Tamanho do Repositório**: O espaço total ocupado pelo projeto no GitHub, incluindo todos os arquivos e histórico de versões. |
-| 👥 | ![Contribuidores](https://img.shields.io/github/contributors/Bipedey/nazuna?color=cyan&style=flat-square) | **Contribuidores**: Lista de todas as pessoas que contribuíram ativamente com código ou documentação para o projeto. |
-| 📥 | ![Downloads](https://img.shields.io/github/downloads/Bipedey/nazuna/total?color=pink&style=flat-square) | **Downloads**: O número total de vezes que o projeto foi baixado, indicando sua adoção e uso. |
-| 🌐 | ![Linguagens](https://img.shields.io/github/languages/top/Bipedey/nazuna?color=teal&style=flat-square) | **Linguagens**: As principais linguagens de programação utilizadas no desenvolvimento do 𝑲𝒊𝒔𝒉𝒐𝒖 𝑩𝑶𝑻, com destaque para a mais predominante. |
-| 🔄 | ![PRs](https://img.shields.io/github/issues-pr/Bipedey/nazuna?color=brightgreen&style=flat-square) | **Pull Requests**: Propostas de melhorias ou novas funcionalidades enviadas por colaboradores, aguardando revisão e integração. |
-| ⏱️ | ![Tempo de Resposta](https://img.shields.io/github/issues-closed-raw/Bipedey/nazuna?color=blueviolet&style=flat-square) | **Tempo de Resposta (Issues)**: Média de tempo que leva para uma issue ser resolvida e fechada, demonstrando a agilidade da equipe. |
+| 🕒 | ![Última Atualização](https://img.shields.io/github/last-commit/Bipedey/KishouBOT-Whatsapp?color=blue&style=flat-square) | **Última Atualização**: Indica a data do último commit realizado no repositório, mostrando a atividade recente de desenvolvimento. |
+| ⭐ | ![Estrelas](https://img.shields.io/github/stars/Bipedey/KishouBOT-Whatsapp?color=yellow&label=Favoritos&style=flat-square) | **Favoritos (Estrelas)**: Representa o número de estrelas concedidas ao projeto no GitHub, um indicador direto da popularidade e do apreço da comunidade. |
+| 🍴 | ![Forks](https://img.shields.io/github/forks/Bipedey/KishouBOT-Whatsapp?color=green&style=flat-square) | **Forks**: Contagem de cópias do projeto (forks) criadas por outros desenvolvedores, evidenciando o interesse em colaborar ou adaptar o bot. |
+| 🐞 | ![Issues](https://img.shields.io/github/issues/Bipedey/KishouBOT-Whatsapp?color=red&style=flat-square) | **Issues**: Número de problemas reportados, sugestões de melhoria ou dúvidas levantadas pela comunidade, essenciais para o aprimoramento do bot. |
+| 📝 | ![Commits](https://img.shields.io/github/commit-activity/m/Bipedey/KishouBOT-Whatsapp?color=purple&style=flat-square) | **Commits**: Frequência de atualizações no código-fonte, refletindo a intensidade do trabalho de desenvolvimento e manutenção. |
+| 💾 | ![Tamanho do Repo](https://img.shields.io/github/repo-size/Bipedey/KishouBOT-Whatsapp?color=orange&style=flat-square) | **Tamanho do Repositório**: O espaço total ocupado pelo projeto no GitHub, incluindo todos os arquivos e histórico de versões. |
+| 👥 | ![Contribuidores](https://img.shields.io/github/contributors/Bipedey/KishouBOT-Whatsapp?color=cyan&style=flat-square) | **Contribuidores**: Lista de todas as pessoas que contribuíram ativamente com código ou documentação para o projeto. |
+| 📥 | ![Downloads](https://img.shields.io/github/downloads/Bipedey/KishouBOT-Whatsapp/total?color=pink&style=flat-square) | **Downloads**: O número total de vezes que o projeto foi baixado, indicando sua adoção e uso. |
+| 🌐 | ![Linguagens](https://img.shields.io/github/languages/top/Bipedey/KishouBOT-Whatsapp?color=teal&style=flat-square) | **Linguagens**: As principais linguagens de programação utilizadas no desenvolvimento do 𝑲𝒊𝒔𝒉𝒐𝒖 𝑩𝑶𝑻, com destaque para a mais predominante. |
+| 🔄 | ![PRs](https://img.shields.io/github/issues-pr/Bipedey/KishouBOT-Whatsapp?color=brightgreen&style=flat-square) | **Pull Requests**: Propostas de melhorias ou novas funcionalidades enviadas por colaboradores, aguardando revisão e integração. |
+| ⏱️ | ![Tempo de Resposta](https://img.shields.io/github/issues-closed-raw/Bipedey/KishouBOT-Whatsapp?color=blueviolet&style=flat-square) | **Tempo de Resposta (Issues)**: Média de tempo que leva para uma issue ser resolvida e fechada, demonstrando a agilidade da equipe. |
 | 📜 | ![Licença](https://img.shields.io/badge/licença-Copyright-red?style=flat-square) | **Licença**: Informa que o projeto é protegido por copyright, com as condições de uso e distribuição detalhadas na seção de Licença. |
 | ✅ | ![Status](https://img.shields.io/badge/STATUS-ATIVO-success?style=flat-square) | **Status**: Indica que o projeto está ativo e em constante desenvolvimento, com suporte e atualizações regulares. |
 
@@ -101,10 +101,10 @@ Navegue facilmente por todas as seções deste README para encontrar as informa�
 
 1. [🚀 Primeiros Passos: Guia Rápido](#-primeiros-passos-guia-rápido)
 2. [📋 Pré-requisitos Essenciais](#-pré-requisitos-essenciais)
-3. [📥 Instalação do 𝑲𝒊𝒔𝒉𝒐𝒖 𝑩𝑶𝑻](#-instalação-do-nazuna-bot)
+3. [📥 Instalação do 𝑲𝒊𝒔𝒉𝒐𝒖 𝑩𝑶𝑻](#-instalação-do-KishouBOT-Whatsapp-bot)
 4. [🚀 Rodando o Bot pela Primeira Vez](#-rodando-o-bot-pela-primeira-vez)
 5. [🔌 Conectando o Bot ao WhatsApp](#-conectando-o-bot-ao-whatsapp)
-6. [🔄 Atualizando o 𝑲𝒊𝒔𝒉𝒐𝒖 𝑩𝑶𝑻](#-atualizando-o-nazuna-bot)
+6. [🔄 Atualizando o 𝑲𝒊𝒔𝒉𝒐𝒖 𝑩𝑶𝑻](#-atualizando-o-KishouBOT-Whatsapp-bot)
 7. [💻 Tutoriais de Instalação por Plataforma](#-tutoriais-de-instalação-por-plataforma)
    - [🖥️ Windows: Guia Completo](#-windows-guia-completo)
    - [🐧 Linux: Instalação e Configuração](#-linux-instalação-e-configuração)
@@ -170,11 +170,11 @@ Siga este guia passo a passo para instalar o 𝑲𝒊𝒔𝒉𝒐𝒖 𝑩𝑶�
    Abra o terminal de sua preferência (Prompt de Comando no Windows, PowerShell, Terminal no Linux/macOS ou Termux no Android) e execute os seguintes comandos. Estes comandos baixarão todo o código-fonte do 𝑲𝒊𝒔𝒉𝒐𝒖 𝑩𝑶𝑻 para o seu computador e o levarão para o diretório do projeto:
    ```bash
    git clone https://github.com/wesleygvfxp7/KishouBOT-Whatsapp.git
-   cd nazuna
+   cd KishouBOT-Whatsapp
    ```
    - **Explicação**:  
-     - `git clone https://github.com/wesleygvfxp7/KishouBOT-Whatsapp.git`: Este comando baixa uma cópia completa do repositório do 𝑲𝒊𝒔𝒉𝒐𝒖 𝑩𝑶𝑻 do GitHub para o seu diretório atual. Uma nova pasta chamada `nazuna` será criada.
-     - `cd nazuna`: Este comando muda o diretório de trabalho atual para a pasta `nazuna`, onde o bot está localizado. Todas as operações subsequentes devem ser executadas dentro desta pasta.
+     - `git clone https://github.com/wesleygvfxp7/KishouBOT-Whatsapp.git`: Este comando baixa uma cópia completa do repositório do 𝑲𝒊𝒔𝒉𝒐𝒖 𝑩𝑶𝑻 do GitHub para o seu diretório atual. Uma nova pasta chamada `KishouBOT-Whatsapp` será criada.
+     - `cd KishouBOT-Whatsapp`: Este comando muda o diretório de trabalho atual para a pasta `KishouBOT-Whatsapp`, onde o bot está localizado. Todas as operações subsequentes devem ser executadas dentro desta pasta.
 
 2. **Instalar Dependências do Projeto**  
    O 𝑲𝒊𝒔𝒉𝒐𝒖 𝑩𝑶𝑻 utiliza diversas bibliotecas e pacotes Node.js para funcionar. Para instalá-los, execute os comandos abaixo, um por vez. O processo pode levar alguns minutos, dependendo da sua conexão com a internet:
@@ -198,7 +198,7 @@ Siga este guia passo a passo para instalar o 𝑲𝒊𝒔𝒉𝒐𝒖 𝑩𝑶�
 <details>
 <summary><strong>▶️ Como executar o bot</strong></summary>
 
-Após a instalação bem-sucedida de todas as dependências, você está pronto para iniciar o 𝑲𝒊𝒔𝒉𝒐𝒖 𝑩𝑶𝑻. Execute o seguinte comando no terminal, dentro do diretório do projeto `nazuna`:
+Após a instalação bem-sucedida de todas as dependências, você está pronto para iniciar o 𝑲𝒊𝒔𝒉𝒐𝒖 𝑩𝑶𝑻. Execute o seguinte comando no terminal, dentro do diretório do projeto `KishouBOT-Whatsapp`:
 
 ```bash
 npm start
@@ -258,7 +258,7 @@ Este método é útil se você não consegue escanear o QR code diretamente (por
 
 Manter seu 𝑲𝒊𝒔𝒉𝒐𝒖 𝑩𝑶𝑻 atualizado é essencial para garantir acesso às últimas funcionalidades, melhorias de desempenho e correções de segurança. O processo de atualização é simples e seguro:
 
-Para atualizar o bot para a versão mais recente disponível no repositório oficial, navegue até o diretório do projeto `nazuna` no seu terminal e execute o seguinte comando:
+Para atualizar o bot para a versão mais recente disponível no repositório oficial, navegue até o diretório do projeto `KishouBOT-Whatsapp` no seu terminal e execute o seguinte comando:
 
 ```bash
 npm run update
@@ -300,7 +300,7 @@ Este guia detalha a instalação do 𝑲𝒊𝒔𝒉𝒐𝒖 𝑩𝑶𝑻 em sis
    Abra o Prompt de Comando ou PowerShell e execute os comandos abaixo. Eles irão clonar o repositório do 𝑲𝒊𝒔𝒉𝒐𝒖 𝑩𝑶𝑻 e instalar todas as dependências necessárias:
    ```bash
    git clone https://github.com/wesleygvfxp7/KishouBOT-Whatsapp.git
-   cd nazuna
+   cd KishouBOT-Whatsapp
    npm run config
    npm run config:install
    ```
@@ -318,9 +318,9 @@ Este guia detalha a instalação do 𝑲𝒊𝒔𝒉𝒐𝒖 𝑩𝑶𝑻 em sis
    - **Instalação do NSSM**: Baixe o NSSM, extraia o executável e adicione-o ao PATH do sistema ou copie-o para uma pasta acessível.
    - **Configuração do Serviço**: Abra o Prompt de Comando ou PowerShell como administrador e execute:
      ```bash
-     nssm install nazuna "C:\caminho\para\node.exe" "C:\caminho\para\nazuna\app.js"
+     nssm install KishouBOT-Whatsapp "C:\caminho\para\node.exe" "C:\caminho\para\KishouBOT-Whatsapp\app.js"
      ```
-     Substitua `C:\caminho\para\node.exe` e `C:\caminho\para\nazuna\app.js` pelos caminhos corretos em seu sistema.
+     Substitua `C:\caminho\para\node.exe` e `C:\caminho\para\KishouBOT-Whatsapp\app.js` pelos caminhos corretos em seu sistema.
    - **Alternativa Simples**: Se você não quiser usar o NSSM, pode simplesmente deixar a janela do Prompt de Comando ou PowerShell aberta. No entanto, fechar a janela encerrará o processo do bot.
 
 > 💡 **Dica para Windows**: Se o bot parar de funcionar inesperadamente, verifique sua conexão com a internet, certifique-se de que o processo não foi encerrado e, se necessário, reinicie-o com `npm start`.
@@ -349,7 +349,7 @@ Este guia abrange a instalação do 𝑲𝒊𝒔𝒉𝒐𝒖 𝑩𝑶𝑻 em dis
    No terminal, execute os seguintes comandos para clonar o repositório do 𝑲𝒊𝒔𝒉𝒐𝒖 𝑩𝑶𝑻 e instalar suas dependências:
    ```bash
    git clone https://github.com/wesleygvfxp7/KishouBOT-Whatsapp.git
-   cd nazuna
+   cd KishouBOT-Whatsapp
    npm run config
    npm run config:install
    ```
@@ -369,15 +369,15 @@ Este guia abrange a instalação do 𝑲𝒊𝒔𝒉𝒐𝒖 𝑩𝑶𝑻 em dis
      ```
    - **Iniciando o Bot com PM2**: Inicie o 𝑲𝒊𝒔𝒉𝒐𝒖 𝑩𝑶𝑻 como um processo gerenciado pelo `pm2`:
      ```bash
-     pm2 start npm --name "nazuna" -- start
+     pm2 start npm --name "KishouBOT-Whatsapp" -- start
      ```
    - **Salvando o Processo**: Para que o `pm2` reinicie o bot automaticamente após uma reinicialização do sistema, execute:
      ```bash
      pm2 save
      ```
-   - **Monitoramento**: Você pode monitorar os logs do bot em tempo real com `pm2 logs nazuna` e verificar o status com `pm2 status`.
+   - **Monitoramento**: Você pode monitorar os logs do bot em tempo real com `pm2 logs KishouBOT-Whatsapp` e verificar o status com `pm2 status`.
 
-> 💡 **Dica para Linux**: Se o bot desconectar ou parar de funcionar, você pode reiniciá-lo facilmente com o comando `pm2 restart nazuna`. Para parar o bot, use `pm2 stop nazuna`.
+> 💡 **Dica para Linux**: Se o bot desconectar ou parar de funcionar, você pode reiniciá-lo facilmente com o comando `pm2 restart KishouBOT-Whatsapp`. Para parar o bot, use `pm2 stop KishouBOT-Whatsapp`.
 </details>
 
 ### 📱 Termux (Android): Passo a Passo Detalhado
@@ -419,12 +419,12 @@ Este tutorial abrangente detalha a instalação do 𝑲𝒊𝒔𝒉𝒐𝒖 𝑩
    ```bash
    cd ~/storage/shared
    git clone https://github.com/wesleygvfxp7/KishouBOT-Whatsapp.git
-   cd nazuna
+   cd KishouBOT-Whatsapp
    ```
    - **Explicação**:  
      - `cd ~/storage/shared`: Muda o diretório atual para a pasta `shared` dentro do armazenamento do Termux, que geralmente mapeia para o armazenamento interno do seu dispositivo Android. É o local ideal para clonar projetos, evitando problemas de permissão.
-     - `git clone https://github.com/wesleygvfxp7/KishouBOT-Whatsapp.git`: Baixa todo o código-fonte do 𝑲𝒊𝒔𝒉𝒐𝒖 𝑩𝑶𝑻 para uma nova pasta chamada `nazuna`.
-     - `cd nazuna`: Entra na pasta recém-criada do bot, onde todos os comandos subsequentes devem ser executados.
+     - `git clone https://github.com/wesleygvfxp7/KishouBOT-Whatsapp.git`: Baixa todo o código-fonte do 𝑲𝒊𝒔𝒉𝒐𝒖 𝑩𝑶𝑻 para uma nova pasta chamada `KishouBOT-Whatsapp`.
+     - `cd KishouBOT-Whatsapp`: Entra na pasta recém-criada do bot, onde todos os comandos subsequentes devem ser executados.
 
 5. **Instalar as Dependências do Bot**  
    O 𝑲𝒊𝒔𝒉𝒐𝒖 𝑩𝑶𝑻 depende de várias bibliotecas Node.js para funcionar. O comando `npm run config:install` irá instalá-las de forma otimizada.
@@ -448,10 +448,10 @@ Este tutorial abrangente detalha a instalação do 𝑲𝒊𝒔𝒉𝒐𝒖 𝑩
 7. **Atualizando o Bot no Termux**  
    Para atualizar o bot para a versão mais recente, navegue até a pasta do bot e execute:
    ```bash
-   cd ~/storage/shared/nazuna
+   cd ~/storage/shared/KishouBOT-Whatsapp
    npm run update
    ```
-   - **Solução de Problemas Pós-Atualização**: Se o bot parar de funcionar após uma atualização ou por qualquer outro motivo, tente reiniciar o processo. Certifique-se de estar na pasta `nazuna` e execute `npm start` novamente.
+   - **Solução de Problemas Pós-Atualização**: Se o bot parar de funcionar após uma atualização ou por qualquer outro motivo, tente reiniciar o processo. Certifique-se de estar na pasta `KishouBOT-Whatsapp` e execute `npm start` novamente.
 
 > 💡 **Dica Crucial para Termux**: Se você encontrar o erro "Permissão negada" em qualquer etapa, é quase certo que as permissões de armazenamento não foram concedidas corretamente. Execute `termux-setup-storage` novamente e certifique-se de aceitar a permissão na caixa de diálogo do sistema.
 </details>
@@ -461,23 +461,23 @@ Este tutorial abrangente detalha a instalação do 𝑲𝒊𝒔𝒉𝒐𝒖 𝑩
 <details>
 <summary><strong>☁️ Tutorial para servidores Pterodactyl</strong></summary>
 
-Este guia detalha como configurar o **𝑲𝒊𝒔𝒉𝒐𝒖 𝑩𝑶𝑻** em um servidor Pterodactyl, oferecendo duas opções: o Egg oficial do nazuna, que automatiza a maior parte do processo, e um Egg Node.js comum, para maior controle manual.
+Este guia detalha como configurar o **𝑲𝒊𝒔𝒉𝒐𝒖 𝑩𝑶𝑻** em um servidor Pterodactyl, oferecendo duas opções: o Egg oficial do KishouBOT-Whatsapp, que automatiza a maior parte do processo, e um Egg Node.js comum, para maior controle manual.
 
-#### Opção 1: Utilizando o Egg Oficial do nazuna (Recomendado)
+#### Opção 1: Utilizando o Egg Oficial do KishouBOT-Whatsapp (Recomendado)
 
 Esta é a maneira mais fácil e rápida de colocar o 𝑲𝒊𝒔𝒉𝒐𝒖 𝑩𝑶𝑻 para rodar em um servidor Pterodactyl.
 
 1. **Baixar e Importar o Egg**  
-   - **Download**: Obtenha o arquivo JSON do Egg oficial do nazuna em: [https://gitlab.com/Bipedey/nazuna-funcs/nazuna-egg.json](https://gitlab.com/Bipedey/nazuna-funcs/-/raw/main/nazuna-egg.json).
-   - **Importação**: No painel de administração do Pterodactyl, navegue até **Nests** > **Eggs** e clique em **Import Egg**. Selecione o arquivo JSON baixado para importar o Egg do nazuna.
+   - **Download**: Obtenha o arquivo JSON do Egg oficial do KishouBOT-Whatsapp em: [https://gitlab.com/Bipedey/KishouBOT-Whatsapp-funcs/KishouBOT-Whatsapp-egg.json](https://gitlab.com/Bipedey/KishouBOT-Whatsapp-funcs/-/raw/main/KishouBOT-Whatsapp-egg.json).
+   - **Importação**: No painel de administração do Pterodactyl, navegue até **Nests** > **Eggs** e clique em **Import Egg**. Selecione o arquivo JSON baixado para importar o Egg do KishouBOT-Whatsapp.
 
-2. **Criar o Servidor com o Egg do nazuna**  
-   - Crie um novo servidor e, na seleção de Egg, escolha o **Egg do nazuna** que você acabou de importar.
+2. **Criar o Servidor com o Egg do KishouBOT-Whatsapp**  
+   - Crie um novo servidor e, na seleção de Egg, escolha o **Egg do KishouBOT-Whatsapp** que você acabou de importar.
    - Na seção **Startup**, configure as variáveis de ambiente conforme solicitado:
      - **Nome do Dono**: Seu nome ou apelido (ex: `João`).
      - **Número do Bot**: O número de telefone do bot, com o código do país (ex: `+5511999999999`).
      - **Prefixo do Bot**: O símbolo que será usado para acionar os comandos (ex: `/`).
-     - **Nome do Bot**: O nome que o bot terá no WhatsApp (ex: `nazuna`).
+     - **Nome do Bot**: O nome que o bot terá no WhatsApp (ex: `KishouBOT-Whatsapp`).
      - **Atualização Automática**: Selecione `Sim` para que o bot se atualize automaticamente a cada reinicialização, ou `Não` para atualizações manuais.
    - **Recursos**: Aloque no mínimo 256MB de RAM e 256MB de disco. Para um desempenho ideal, recomendamos 512MB de RAM e 512MB de disco.
 
@@ -506,7 +506,7 @@ Esta opção oferece mais controle sobre a configuração, mas requer mais passo
    - Acesse o console do Pterodactyl e execute os seguintes comandos para clonar o repositório do 𝑲𝒊𝒔𝒉𝒐𝒖 𝑩𝑶𝑻:
      ```bash
      git clone https://github.com/wesleygvfxp7/KishouBOT-Whatsapp.git
-     cd nazuna
+     cd KishouBOT-Whatsapp
      ```
 
 3. **Instalar as Dependências**  
@@ -526,7 +526,7 @@ Esta opção oferece mais controle sobre a configuração, mas requer mais passo
      npm run update
      ```
 
-> 💡 **Dica para Pterodactyl**: O Egg oficial do nazuna simplifica enormemente a instalação e a manutenção, automatizando a maioria dos processos. É a escolha recomendada para a maioria dos usuários.
+> 💡 **Dica para Pterodactyl**: O Egg oficial do KishouBOT-Whatsapp simplifica enormemente a instalação e a manutenção, automatizando a maioria dos processos. É a escolha recomendada para a maioria dos usuários.
 </details>
 </details>
 
@@ -545,7 +545,7 @@ Encontrou algum problema durante a instalação ou uso do 𝑲𝒊𝒔𝒉𝒐�
 | **QR Code não funciona ou expira rapidamente** | **Causas Comuns**: Conexão de internet lenta, terminal muito pequeno para exibir o QR code corretamente, ou demora para escanear. **Soluções**: 1) Aumente o tamanho da janela do terminal. 2) Verifique sua conexão com a internet. 3) Gere um novo QR code reiniciando o bot com `npm start`. 4) Tente o método de conexão com código de pareamento. |
 | **Bot desconecta frequentemente** | **Causas Comuns**: Conexão de internet instável, recursos insuficientes (RAM/CPU), ou problemas com a sessão salva. **Soluções**: 1) Verifique sua conexão com a internet. 2) Monitore o uso de recursos do sistema. 3) Reinicie o bot com `npm start`. 4) Como último recurso, apague a pasta `sessions` (isso exigirá uma nova autenticação) e reinicie o bot. |
 | **Erro durante a instalação de dependências (npm install)** | **Causas Comuns**: Conexão de internet instável, pacotes corrompidos no cache do npm, ou problemas de permissão. **Soluções**: 1) Verifique sua conexão com a internet. 2) Limpe o cache do npm com `npm cache clean --force` e tente novamente. 3) Certifique-se de que você tem permissões de escrita no diretório do projeto. 4) Verifique se você está usando a versão correta do Node.js (18+). |
-| **Termux para de funcionar em segundo plano** | **Causa**: O sistema Android é agressivo ao fechar aplicativos em segundo plano para economizar bateria. **Soluções**: 1) Desative a otimização de bateria para o aplicativo Termux nas configurações do seu Android. 2) Use um aplicativo de "manter tela ligada" ou "manter acordado". 3) Reinicie o bot com `cd /sdcard/nazuna && npm start`. |
+| **Termux para de funcionar em segundo plano** | **Causa**: O sistema Android é agressivo ao fechar aplicativos em segundo plano para economizar bateria. **Soluções**: 1) Desative a otimização de bateria para o aplicativo Termux nas configurações do seu Android. 2) Use um aplicativo de "manter tela ligada" ou "manter acordado". 3) Reinicie o bot com `cd /sdcard/KishouBOT-Whatsapp && npm start`. |
 
 > 😊 **Ainda com Problemas?** Nossa comunidade está pronta para ajudar! Junte-se ao nosso [Grupo do WhatsApp](https://chat.whatsapp.com/EvgIsHK0NJmGbErpy4G3aB?mode=ac_t) para obter suporte direto do criador e de outros usuários experientes.
 </details>
@@ -609,7 +609,7 @@ Feito com ❤️ e muitas xícaras de café por [**Bipede**](https://github.com/
 | Ícone | Badge | Descrição |
 |-------|-------|-----------|
 | 👥 | ![Seguidores](https://img.shields.io/github/followers/Bipedey?color=blue&style=flat-square) | **Seguidores**: O número de pessoas que acompanham o trabalho do Bipede no GitHub. |
-| 📝 | ![Contribuições](https://img.shields.io/github/commit-activity/y/Bipedey/nazuna) | **Contribuições**: A atividade anual de commits do Bipede em todos os seus projetos. |
+| 📝 | ![Contribuições](https://img.shields.io/github/commit-activity/y/Bipedey/KishouBOT-Whatsapp) | **Contribuições**: A atividade anual de commits do Bipede em todos os seus projetos. |
 | 💬 | ![Discord](https://img.shields.io/badge/Discord-Bipedeyy-7289DA?style=flat-square&logo=discord) | **Discord**: Conecte-se diretamente com o Bipede no Discord para trocar ideias e obter suporte. |
 | 📷 | ![Instagram](https://img.shields.io/badge/Instagram-Bipedeyy_-E4405F?style=flat-square&logo=instagram) | **Instagram**: Siga o Bipede no Instagram para ficar por dentro das últimas novidades e bastidores dos projetos. |
 
@@ -691,7 +691,7 @@ Para desenvolvedores que desejam fazer modificações avançadas no 𝑲𝒊𝒔
    ```bash
    # Clone o repositório
    git clone https://github.com/wesleygvfxp7/KishouBOT-Whatsapp.git
-   cd nazuna
+   cd KishouBOT-Whatsapp
    
    # Adicione o repositório original como remote
    git remote add upstream https://github.com/wesleygvfxp7/KishouBOT-Whatsapp.git
@@ -713,7 +713,7 @@ Para desenvolvedores que desejam fazer modificações avançadas no 𝑲𝒊𝒔
 A estrutura do projeto é organizada de forma modular para facilitar o desenvolvimento:
 
 ```
-nazuna/
+KishouBOT-Whatsapp/
 ├── dados/                    # Dados e configurações
 │   ├── src/                  # Código fonte principal
 │   │   ├── funcs/            # Funções do bot

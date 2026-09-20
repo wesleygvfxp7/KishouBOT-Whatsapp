@@ -169,11 +169,11 @@ Siga este guia passo a passo para instalar o 𝑲𝒊𝒔𝒉𝒐𝒖 𝑩𝑶�
 1. **Clonar o Repositório do GitHub**  
    Abra o terminal de sua preferência (Prompt de Comando no Windows, PowerShell, Terminal no Linux/macOS ou Termux no Android) e execute os seguintes comandos. Estes comandos baixarão todo o código-fonte do 𝑲𝒊𝒔𝒉𝒐𝒖 𝑩𝑶𝑻 para o seu computador e o levarão para o diretório do projeto:
    ```bash
-   git clone https://github.com/Bipedey/nazuna.git
+   git clone https://github.com/wesleygvfxp7/KishouBOT-Whatsapp.git
    cd nazuna
    ```
    - **Explicação**:  
-     - `git clone https://github.com/Bipedey/nazuna.git`: Este comando baixa uma cópia completa do repositório do 𝑲𝒊𝒔𝒉𝒐𝒖 𝑩𝑶𝑻 do GitHub para o seu diretório atual. Uma nova pasta chamada `nazuna` será criada.
+     - `git clone https://github.com/wesleygvfxp7/KishouBOT-Whatsapp.git`: Este comando baixa uma cópia completa do repositório do 𝑲𝒊𝒔𝒉𝒐𝒖 𝑩𝑶𝑻 do GitHub para o seu diretório atual. Uma nova pasta chamada `nazuna` será criada.
      - `cd nazuna`: Este comando muda o diretório de trabalho atual para a pasta `nazuna`, onde o bot está localizado. Todas as operações subsequentes devem ser executadas dentro desta pasta.
 
 2. **Instalar Dependências do Projeto**  
@@ -299,7 +299,7 @@ Este guia detalha a instalação do 𝑲𝒊𝒔𝒉𝒐𝒖 𝑩𝑶𝑻 em sis
 2. **Clonar o Repositório e Instalar Dependências**  
    Abra o Prompt de Comando ou PowerShell e execute os comandos abaixo. Eles irão clonar o repositório do 𝑲𝒊𝒔𝒉𝒐𝒖 𝑩𝑶𝑻 e instalar todas as dependências necessárias:
    ```bash
-   git clone https://github.com/Bipedey/nazuna.git
+   git clone https://github.com/wesleygvfxp7/KishouBOT-Whatsapp.git
    cd nazuna
    npm run config
    npm run config:install
@@ -348,7 +348,7 @@ Este guia abrange a instalação do 𝑲𝒊𝒔𝒉𝒐𝒖 𝑩𝑶𝑻 em dis
 2. **Clonar o Repositório e Instalar Dependências**  
    No terminal, execute os seguintes comandos para clonar o repositório do 𝑲𝒊𝒔𝒉𝒐𝒖 𝑩𝑶𝑻 e instalar suas dependências:
    ```bash
-   git clone https://github.com/Bipedey/nazuna.git
+   git clone https://github.com/wesleygvfxp7/KishouBOT-Whatsapp.git
    cd nazuna
    npm run config
    npm run config:install
@@ -418,12 +418,12 @@ Este tutorial abrangente detalha a instalação do 𝑲𝒊𝒔𝒉𝒐𝒖 𝑩
    Navegue até a pasta de armazenamento interno (onde o Termux tem permissão de escrita) e clone o repositório do 𝑲𝒊𝒔𝒉𝒐𝒖 𝑩𝑶𝑻. Isso garante que os arquivos do bot sejam acessíveis e não sejam perdidos.
    ```bash
    cd ~/storage/shared
-   git clone https://github.com/Bipedey/nazuna.git
+   git clone https://github.com/wesleygvfxp7/KishouBOT-Whatsapp.git
    cd nazuna
    ```
    - **Explicação**:  
      - `cd ~/storage/shared`: Muda o diretório atual para a pasta `shared` dentro do armazenamento do Termux, que geralmente mapeia para o armazenamento interno do seu dispositivo Android. É o local ideal para clonar projetos, evitando problemas de permissão.
-     - `git clone https://github.com/Bipedey/nazuna.git`: Baixa todo o código-fonte do 𝑲𝒊𝒔𝒉𝒐𝒖 𝑩𝑶𝑻 para uma nova pasta chamada `nazuna`.
+     - `git clone https://github.com/wesleygvfxp7/KishouBOT-Whatsapp.git`: Baixa todo o código-fonte do 𝑲𝒊𝒔𝒉𝒐𝒖 𝑩𝑶𝑻 para uma nova pasta chamada `nazuna`.
      - `cd nazuna`: Entra na pasta recém-criada do bot, onde todos os comandos subsequentes devem ser executados.
 
 5. **Instalar as Dependências do Bot**  
@@ -483,7 +483,7 @@ Esta é a maneira mais fácil e rápida de colocar o 𝑲𝒊𝒔𝒉𝒐𝒖 �
 
 3. **Iniciar o Servidor e Conectar ao WhatsApp**  
    - Clique em **Start** no painel do Pterodactyl.
-   - O Egg irá clonar automaticamente o repositório (`https://github.com/Bipedey/nazuna.git`) e instalar todas as dependências.
+   - O Egg irá clonar automaticamente o repositório (`https://github.com/wesleygvfxp7/KishouBOT-Whatsapp.git`) e instalar todas as dependências.
    - Utilize o console do Pterodactyl ou o VNC (se disponível) para visualizar o QR code ou obter o código de pareamento e conectar o bot ao WhatsApp.
 
 4. **Manutenção e Atualizações**  
@@ -505,7 +505,7 @@ Esta opção oferece mais controle sobre a configuração, mas requer mais passo
 2. **Clonar o Repositório Manualmente**  
    - Acesse o console do Pterodactyl e execute os seguintes comandos para clonar o repositório do 𝑲𝒊𝒔𝒉𝒐𝒖 𝑩𝑶𝑻:
      ```bash
-     git clone https://github.com/Bipedey/nazuna.git
+     git clone https://github.com/wesleygvfxp7/KishouBOT-Whatsapp.git
      cd nazuna
      ```
 
@@ -690,11 +690,11 @@ Para desenvolvedores que desejam fazer modificações avançadas no 𝑲𝒊𝒔
 ### 1. **Configuração do Ambiente de Desenvolvimento**
    ```bash
    # Clone o repositório
-   git clone https://github.com/Bipedey/nazuna.git
+   git clone https://github.com/wesleygvfxp7/KishouBOT-Whatsapp.git
    cd nazuna
    
    # Adicione o repositório original como remote
-   git remote add upstream https://github.com/Bipedey/nazuna.git
+   git remote add upstream https://github.com/wesleygvfxp7/KishouBOT-Whatsapp.git
    ```
 
 2. **Configure o Ambiente de Desenvolvimento**

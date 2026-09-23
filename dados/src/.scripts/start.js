@@ -24,6 +24,9 @@ const colors = {
   bold: '\x1b[1m',
 };
 
+let shuttingDown = false;
+let restartDelay = 1000;
+
 const mensagem = (text) => console.log(`${colors.green}${text}${colors.reset}`);
 const aviso = (text) => console.log(`${colors.red}${text}${colors.reset}`);
 const info = (text) => console.log(`${colors.cyan}${text}${colors.reset}`);
@@ -78,7 +81,7 @@ am startservice --user 0 \\
   -a com.termux.RUN_COMMAND \\
   --es com.termux.RUN_COMMAND_PATH '/data/data/com.termux/files/usr/bin/npm' \\
   --esa com.termux.RUN_COMMAND_ARGUMENTS 'start' \\
-  --es com.termux.RUN_COMMAND_SESSION_NAME 'VOXBot' \\
+  --es com.termux.RUN_COMMAND_SESSION_NAME 'Kishou BOT' \\
   --es com.termux.RUN_COMMAND_WORKDIR '${path.join(process.cwd())}' \\
   --ez com.termux.RUN_COMMAND_BACKGROUND 'false' \\
   --es com.termux.RUN_COMMAND_SESSION_ACTION '0'
@@ -104,7 +107,9 @@ am startservice --user 0 \\
 
 function setupGracefulShutdown() {
   const shutdown = () => {
-    mensagem('🛑 Encerrando o VOX... Até logo!');
+    if (shuttingDown) return;
+    shuttingDown = true;
+    mensagem('🛑 Encerrando o Kishou BOT... Até logo!');
     if (botProcess) {
       botProcess.removeAllListeners();
       botProcess.kill();
@@ -126,8 +131,9 @@ function setupGracefulShutdown() {
 
 async function displayHeader() {
   const header = [
-    `${colors.bold}🚀 VOX - Conexão WhatsApp${colors.reset}`,
+    `${colors.bold}🚀 Kishou BOT · Conexão WhatsApp${colors.reset}`,
     `${colors.bold}📦 Versão: ${version}${colors.reset}`,
+    `${colors.cyan}🟢 Inicialização guiada · reconexão automática${colors.reset}`,
   ];
 
   separador();
@@ -180,6 +186,7 @@ async function checkPrerequisites() {
 }
 
 function startBot(codeMode = false) {
+  if (shuttingDown) return null;
   const args = ['--expose-gc', CONNECT_FILE];
   if (codeMode) args.push('--code');
 
@@ -196,10 +203,11 @@ function startBot(codeMode = false) {
   });
 
   botProcess.on('close', (code) => {
+    if (shuttingDown) return;
     if (code === 0) {
-      info(`✅ O bot terminou normalmente (código: ${code}). Reiniciando...`);
+      info(`✅ O processo terminou (código: ${code}). Reiniciando para manter o bot online...`);
     } else {
-      aviso(`⚠️ O bot terminou com erro (código: ${code}). Reiniciando...`);
+      aviso(`⚠️ O processo terminou com erro (código: ${code ?? 'indisponível'}). Reiniciando...`);
     }
     restartBot(codeMode);
   });
@@ -208,24 +216,48 @@ function startBot(codeMode = false) {
 }
 
 function restartBot(codeMode) {
-  aviso('🔄 Reiniciando o bot em 500ms...');
+  if (shuttingDown) return;
+  const delay = restartDelay;
+  restartDelay = Math.min(restartDelay * 2, 30000);
+  aviso(`🔄 Nova tentativa em ${Math.ceil(delay / 1000)}s...`);
   setTimeout(() => {
+    if (shuttingDown) return;
     if (botProcess) botProcess.removeAllListeners();
     startBot(codeMode);
-  }, 500);
+  }, delay);
 }
 
 async function checkAutoConnect() {
   try {
     if (!fsSync.existsSync(QR_CODE_DIR)) {
       await fs.mkdir(QR_CODE_DIR, { recursive: true });
-      return false;
+      return { hasAuthData: false, hasRegisteredSession: false };
     }
-    const files = await fs.readdir(QR_CODE_DIR);
-    return files.length > 2;
+
+    const entries = await fs.readdir(QR_CODE_DIR);
+    const hasAuthData = entries.some((entry) => !['.DS_Store', 'tmp'].includes(entry));
+
+    if (!hasAuthData) {
+      return { hasAuthData: false, hasRegisteredSession: false };
+    }
+
+    const credsPath = path.join(QR_CODE_DIR, 'creds.json');
+    if (!fsSync.existsSync(credsPath)) {
+      return { hasAuthData: true, hasRegisteredSession: false };
+    }
+
+    try {
+      const creds = JSON.parse(await fs.readFile(credsPath, 'utf8'));
+      return {
+        hasAuthData: true,
+        hasRegisteredSession: creds.registered === true && Boolean(creds.me?.id),
+      };
+    } catch {
+      return { hasAuthData: true, hasRegisteredSession: false };
+    }
   } catch (error) {
     aviso(`❌ Erro ao verificar diretório de QR Code: ${error.message}`);
-    return false;
+    return { hasAuthData: false, hasRegisteredSession: false };
   }
 }
 
@@ -235,12 +267,12 @@ async function promptConnectionMethod() {
     output: process.stdout,
   });
 
-  console.log(`${colors.yellow}🔧 Escolha o método de conexão:${colors.reset}`);
+  console.log(`${colors.bold}${colors.yellow}🔧 Como deseja conectar o Kishou BOT?${colors.reset}`);
   console.log(`${colors.yellow}1. 📷 Conectar via QR Code${colors.reset}`);
   console.log(`${colors.yellow}2. 🔑 Conectar via código de pareamento${colors.reset}`);
   console.log(`${colors.yellow}3. 🚪 Sair${colors.reset}`);
 
-  const answer = await rl.question('➡️ Digite o número da opção desejada: ');
+  const answer = await rl.question(`${colors.cyan}➡️ Escolha [1-3]: ${colors.reset}`);
   console.log();
   rl.close();
 
@@ -255,8 +287,8 @@ async function promptConnectionMethod() {
       mensagem('👋 Encerrando... Até mais!');
       process.exit(0);
     default:
-      aviso('⚠️ Opção inválida! Usando conexão via QR Code como padrão.');
-      return { method: 'qr' };
+      aviso('⚠️ Opção inválida. Escolha 1, 2 ou 3.');
+      return promptConnectionMethod();
   }
 }
 
@@ -267,9 +299,13 @@ async function main() {
     await checkPrerequisites();
     await setupTermuxAutostart();
 
-    const hasSession = await checkAutoConnect();
-    if (hasSession) {
-      mensagem('📷 Sessão de QR Code detectada. Conectando automaticamente...');
+    const { hasAuthData, hasRegisteredSession } = await checkAutoConnect();
+    if (hasAuthData) {
+      if (hasRegisteredSession) {
+        mensagem('📷 Sessão registrada detectada. Conectando automaticamente...');
+      } else {
+        mensagem('📷 Dados de autenticação do QR detectados. Conectando automaticamente...');
+      }
       startBot(false);
     } else {
       const { method } = await promptConnectionMethod();

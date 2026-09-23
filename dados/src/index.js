@@ -1237,13 +1237,13 @@ async function NazuninhaBotExec(nazu, info, store, messagesCache, rentalExpirati
     const nmrdn = buildUserId(numerodono, config);
     const subDonoList = loadSubdonos();
     const isSubOwner = isSubdono(sender);
-    const ownerJid = `${numerodono}@s.whatsapp.net`;
+    const ownerJid = buildUserId(numerodono, config);
     const botId = getBotId(nazu);
     const isBotSender = sender === botId || sender === nazu.user?.id?.split(':')[0] + '@s.whatsapp.net' || sender === nazu.user?.id?.split(':')[0] + '@lid';
     
-    const senderBase = sender.split('@')[0];
-    const ownerBase = String(numerodono);
-    const lidOwnerBase = lidowner ? lidowner.split('@')[0] : null;
+    const senderBase = sender.split(':')[0].split('@')[0].replace(/[^\d]/g, '');
+    const ownerBase = String(numerodono).split(':')[0].split('@')[0].replace(/[^\d]/g, '');
+    const lidOwnerBase = lidowner ? String(lidowner).split(':')[0].split('@')[0].replace(/[^\d]/g, '') : null;
     
     const isOwner = senderBase === ownerBase || 
                     sender === nmrdn || 
@@ -1251,7 +1251,8 @@ async function NazuninhaBotExec(nazu, info, store, messagesCache, rentalExpirati
                     (lidowner && sender === lidowner) || 
                     (lidOwnerBase && senderBase === lidOwnerBase) ||
                     info.key.fromMe || 
-                    isBotSender;
+                    isBotSender ||
+                    normalizePhoneNumber(sender) === ownerBase;
     
     const isOwnerOrSub = isOwner || isSubOwner;
     
@@ -1265,6 +1266,11 @@ async function NazuninhaBotExec(nazu, info, store, messagesCache, rentalExpirati
     });
     
     const type = getContentType(info.message);
+
+    function normalizePhoneNumber(value) {
+      if (value === null || value === undefined) return '';
+      return String(value).split(':')[0].split('@')[0].replace(/[^\d]/g, '');
+    }
     
     // ==================== PROCESSAMENTO DE SOLICITAÇÕES DE ENTRADA NO GRUPO ====================
     // Fallback: Solicitações também podem vir via messageStubType (backup do evento 'group.join-request')
@@ -25245,7 +25251,8 @@ ${prefix}togglecmdvip premium_ia off`);
           const currentTime = new Date().toLocaleString('pt-BR', {
             timeZone: 'America/Sao_Paulo'
           });
-          const lines = ["╭───🤖 STATUS DO BOT ───╮", `┊ 🏷️ Nome: ${nomebot}`, `┊ 👨‍💻 Dono: ${nomedono}`, `┊ 🆚 Versão: ${botVersion}`, `┊ 🟢 Status: ${botStatus}`, `┊ ⏰ Online há: ${botUptime}`, `┊ 🖥️ Plataforma: ${platform}`, `┊ 🟢 Node.js: ${nodeVersion}`, "┊", "┊ 📊 *Estatísticas:*", `┊ • 👥 Grupos: ${totalGroups}`, `┊ • 👤 Usuários: ${totalUsers}`, `┊ • ⚒️ Comandos: ${totalCommands}`, `┊ • 💎 Users Premium: ${premiumUsers}`, `┊ • 💎 Grupos Premium: ${premiumGroups}`, "┊", "┊ 🛡️ *Segurança:*", `┊ • 🚫 Users Bloqueados: ${blockedUsers}`, `┊ • 🚫 Cmds Bloqueados: ${blockedCommands}`, `┊ • 🏠 Modo Aluguel: ${rentalMode}`, "┊", "┊ 💾 *Sistema:*", `┊ • 🧠 RAM Usada: ${memUsed}MB`, `┊ • 📦 RAM Total: ${memTotal}MB`, `┊ • 🕐 Hora Atual: ${currentTime}`, "╰───────────────╯"].join("\n");
+          const rssMem = (botMemUsage.rss / 1024 / 1024).toFixed(2);
+          const lines = ["╭───🩺 KISHOU BOT · STATUS ───╮", `┊ 🏷️ Nome: ${nomebot}`, `┊ 👨‍💻 Dono: ${nomedono}`, `┊ 🆚 Versão: ${botVersion}`, `┊ 🟢 Status: ${botStatus}`, `┊ ⏰ Online há: ${botUptime}`, `┊ 🖥️ Plataforma: ${platform}`, `┊ 🟢 Node.js: ${nodeVersion}`, "┊", "┊ 📊 *Estatísticas:*", `┊ • 👥 Grupos: ${totalGroups}`, `┊ • 👤 Usuários: ${totalUsers}`, `┊ • ⚒️ Comandos: ${totalCommands}`, `┊ • 💎 Users Premium: ${premiumUsers}`, `┊ • 💎 Grupos Premium: ${premiumGroups}`, "┊", "┊ 🛡️ *Segurança:*", `┊ • 🚫 Users Bloqueados: ${blockedUsers}`, `┊ • 🚫 Cmds Bloqueados: ${blockedCommands}`, `┊ • 🏠 Modo Aluguel: ${rentalMode}`, "┊", "┊ 💾 *Sistema:*", `┊ • 🧠 RSS: ${rssMem}MB`, `┊ • 📦 Heap: ${memUsed} / ${memTotal}MB`, `┊ • 🕐 Hora Atual: ${currentTime}`, "╰─────────────────────╯"].join("\n");
           await reply(lines);
         } catch (e) {
           console.error("Erro em statusbot:", e);

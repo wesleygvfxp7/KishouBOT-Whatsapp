@@ -1,5 +1,5 @@
-import a, { useMultiFileAuthState, DisconnectReason, fetchLatestBaileysVersion, makeCacheableSignalKeyStore } from 'whaileys';
-const makeWASocket = a.default;
+import './polyfill.js';
+import makeWASocket, { useMultiFileAuthState, DisconnectReason, fetchLatestBaileysVersion, makeCacheableSignalKeyStore } from '@whiskeysockets/baileys';
 import { Boom } from '@hapi/boom';
 import NodeCache from 'node-cache';
 import readline from 'readline';
@@ -1320,6 +1320,14 @@ async function createBotSocket(authDir) {
                     return;
                 }
                 
+                // Código 428 indica sessão/protocolo incompatível neste fluxo.
+                // Remova a sessão antiga e peça uma autenticação limpa em vez de repetir o loop.
+                if (reason === 428) {
+                    console.log('⚠️ Código 428: sessão incompatível ou expirada. Removendo autenticação antiga.');
+                    await clearAuthDir();
+                    console.log('🔑 Autenticação removida. Execute npm start e escolha QR Code ou código de pareamento.');
+                    process.exit(1);
+                }
                 // Reset do contador 403 se for outro tipo de erro
                 forbidden403Attempts = 0;
                 
@@ -1377,7 +1385,7 @@ async function startNazu() {
     try {
         reconnectAttempts = 0; // Reset contador ao conectar com sucesso
         forbidden403Attempts = 0; // Reset contador de erro 403
-        console.log('🚀 Iniciando Nazuna...');
+        console.log('🚀 Iniciando Kishou BOT...');
         await createBotSocket(AUTH_DIR);
         isReconnecting = false; // Conexão estabelecida com sucesso
     } catch (err) {

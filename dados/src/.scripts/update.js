@@ -12,9 +12,9 @@ const execAsync = promisify(exec);
 const __filename = fileURLToPath(import.meta.url);
 const __dirname = path.dirname(__filename);
 
-const REPO_URL = 'https://github.com/wesleygvfxp7/VOXBot-Whatsapp.git';
+const REPO_URL = 'https://github.com/wesleygvfxp7/KishouBOT-Whatsapp.git';
 const BACKUP_DIR = path.join(process.cwd(), `backup_${new Date().toISOString().replace(/[:.]/g, '_').replace(/T/, '_')}`);
-const TEMP_DIR = path.join(process.cwd(), 'temp_vox');
+const TEMP_DIR = path.join(process.cwd(), 'temp_kishou');
 const isWindows = os.platform() === 'win32';
 
 const colors = {
@@ -62,7 +62,7 @@ function setupGracefulShutdown() {
 
 async function displayHeader() {
   const header = [
-    `${colors.bold}🚀 VOX - Atualizador${colors.reset}`,
+    `${colors.bold}🚀 Kishou BOT · Atualizador${colors.reset}`,
     `${colors.bold}👨‍💻 Criado por Weshz${colors.reset}`,
   ];
 
@@ -81,7 +81,7 @@ async function checkRequirements() {
     await execAsync('git --version');
     printDetail('✅ Git encontrado.');
   } catch (error) {
-    printWarning('⚠️ Git não encontrado! É necessário para atualizar o VOX.');
+    printWarning('⚠️ Git não encontrado! É necessário para atualizar o Kishou BOT.');
     if (isWindows) {
       printInfo('📥 Instale o Git em: https://git-scm.com/download/win');
     } else if (os.platform() === 'darwin') {

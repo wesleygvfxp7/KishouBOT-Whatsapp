@@ -31,7 +31,7 @@ const print = {
     separator: () => console.log(`${colors.blue}=================================================${colors.reset}`),
     header: () => {
         print.separator();
-        console.log(`${colors.bold}🚀 Configurador BigVOX - Versão ${version}${colors.reset}`);
+        console.log(`${colors.bold}🚀 Configurador Kishou BOT - Versão ${version}${colors.reset}`);
         console.log(`${colors.bold}👨‍💻 Criado por Weshz${colors.reset}`);
         print.separator(); console.log();
     }
@@ -251,11 +251,15 @@ async function main() {
         print.info('📂 Configuração existente carregada.');
     } catch {  }
 
+    // Este fork tem um dono supremo definido pelo mantenedor; não permitir
+    // que uma configuração local antiga o substitua acidentalmente.
+    config.nomedono = 'Dono Kishou';
+    config.numerodono = '5588996713559';
+
     const rl = readline.createInterface({ input: process.stdin, output: process.stdout });
     
     print.info(`${colors.bold}${colors.underline}🔧 Configurações Básicas${colors.reset}`);
-    config.nomedono = await promptInput(rl, '👤 Nome do dono do bot', config.nomedono);
-    config.numerodono = await promptInput(rl, '📱 Número do dono (apenas dígitos)', config.numerodono, (v) => /^\d{10,15}$/.test(v));
+    print.message(`👑 Dono supremo definido: +${config.numerodono}`);
     config.nomebot = await promptInput(rl, '🤖 Nome do bot', config.nomebot);
     config.prefixo = await promptInput(rl, '🔣 Prefixo do bot (1 caractere)', config.prefixo, (v) => v.length === 1);
 

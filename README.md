@@ -680,6 +680,34 @@ Nota: Os `name` dos parâmetros são normalizados para minúsculas e underscores
 
 ---
 
+## ✨ Criar comandos de brincadeira sem programar
+
+O dono pode criar respostas de texto personalizadas pelo WhatsApp com `addcmd`:
+
+```text
+!addcmd piada Por que o computador foi ao médico? Porque estava com um vírus! 😄
+!piada
+```
+
+Para receber o texto de uma menção como argumento:
+
+```text
+!addcmd beijar [param:string:pessoa:required] 😘 {pessoa} foi beijado!
+!beijar @João
+```
+
+Mencione a pessoa usando a menção do WhatsApp. `{pessoa}` recebe o argumento. Comandos personalizados respondem em texto; para anexar fotos dinamicamente ou criar jogos com estado e sorteios reais, é necessário programar o handler.
+
+## 🧭 Mapa para novos comandos e rotas
+
+- Comandos WhatsApp são roteados pelo `switch (command)` em `dados/src/index.js`. O dispatcher prepara remetente, grupo, prefixo e permissões.
+- Para criar um comando em código, adicione um `case`, valide `q`, responda com `reply(text)` e confira permissões antes de operações administrativas.
+- Menus ficam em `dados/src/menus/`; registre categorias em `dados/src/menus/index.js` e conecte-as ao dispatcher.
+- Persistência fica em `dados/src/utils/database.js`; utilidades reutilizáveis ficam em `dados/src/utils/` ou `dados/src/funcs/utils/`.
+- O bot não tem endpoints HTTP. Para rotas REST futuras, crie módulos em `dados/src/routes/`, registre-os num servidor separado da conexão WhatsApp e documente autenticação, parâmetros e respostas.
+
+Consulte [CONTRIBUTING.md](CONTRIBUTING.md) para exemplos de código e padrões de contribuição.
+
 ## 🛠️ Configuração Avançada (Desenvolvedores)
 
 <details>

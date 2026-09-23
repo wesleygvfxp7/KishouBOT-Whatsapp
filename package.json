@@ -1,7 +1,7 @@
 {
-    "name": "VOX",
+    "name": "kishou-bot",
     "version": "8.0.0",
-    "description": "Bot de whatsapp desenvolvido por Wesley G.",
+    "description": "Kishou BOT - Bot de WhatsApp com RPG, jogos, downloads e IA",
     "type": "module",
     "main": "dados/src/connect.js",
     "scripts": {
@@ -13,7 +13,7 @@
     },
     "repository": {
         "type": "git",
-        "url": "git+https://github.com/wesleygvfxp7/VOXBot-Whatsapp.git"
+        "url": "git+https://github.com/wesleygvfxp7/KishouBOT-Whatsapp.git"
     },
     "homepage": "https://cognima.com.br",
     "author": "Hiudy",
